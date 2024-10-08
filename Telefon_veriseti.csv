@@ -1,0 +1,941 @@
+,Brand,Rating,Model,Rating Count,Rating Score,Face Recognition,Screen Size,Charge Type,Storage,Ram,Battery,Warranty,Camera Resolution Back,Camera Resolution Front
+0,POCO ,4.6,POCO Poco C65 256 GB 8 GB Ram (Poco Türkiye Garantili),783,4.6,Var,"['6,74', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+1,Apple ,4.8,Apple iPhone 12 128 GB,5105,4.8,Var,"['6,1', 'inç']",Lightning,128 GB,8 GB RAM,2815 mAh,24,20 MP ve Üzeri,8.0 MP
+2,Apple ,4.8,Apple iPhone 15 Pro Max 256 GB,2524,4.8,Var,"['6,7', 'inç']",Lightning,256 GB,8 GB RAM,4852 mAh,24,20 MP ve Üzeri,8.0 MP
+3,Apple ,4.8,Apple iPhone 15 128 GB,3447,4.8,Var,"['6,1', 'inç']",Lightning,128 GB,8 GB RAM,3877 mAh,24,20 MP ve Üzeri,8.0 MP
+4,Apple ,4.8,Apple iPhone 13 128 GB,19181,4.8,Var,"['6,1', 'inç']",Lightning,128 GB,8 GB RAM,3095 mAh,24,20 MP ve Üzeri,8.0 MP
+5,Xiaomi ,4.6,Xiaomi Redmi 13C 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),906,4.6,Var,"['6,74', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+6,Xiaomi ,4.7,Xiaomi Redmi 12 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),2946,4.7,Var,"['6,8', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+7,Xiaomi ,4.2,Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili),1188,4.2,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+8,Apple ,4.8,Apple iPhone 15 Pro 256 GB,1903,4.8,Var,"['6,1', 'inç']",Lightning,256 GB,8 GB RAM,3650 mAh,24,20 MP ve Üzeri,8.0 MP
+9,Samsung ,4.7,Samsung Galaxy A55 128 GB 8 GB Ram (Samsung Türkiye Garantili),267,4.7,Yok,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+10,Xiaomi ,4.7,Xiaomi Redmi Note 13 Pro 512GB 12GB (Xiaomi Türkiye Garantili),1230,4.7,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+11,Apple ,4.8,Apple iPhone 15 256 GB,2243,4.8,Var,"['6,1', 'inç']",Lightning,256 GB,8 GB RAM,3877 mAh,24,20 MP ve Üzeri,8.0 MP
+12,HONOR ,4.6,HONOR 90 512 GB 12 GB Ram (Honor Türkiye Garantili),10174,4.6,Var,"['6,6', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+13,Samsung ,4.6,Samsung Galaxy M34 5G 6 GB 128 GB (Samsung Türkiye Garantili) Mavi 128 GB,2895,4.6,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+14,Samsung ,4.7,Samsung Galaxy A35 128 GB 8 GB Ram (Samsung Türkiye Garantili),178,4.7,Yok,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+15,Apple ,4.8,Apple iPhone 15 Pro 128 GB,1642,4.8,Var,"['6,1', 'inç']",Lightning,128 GB,8 GB RAM,3650 mAh,24,20 MP ve Üzeri,8.0 MP
+16,Samsung ,4.6,Samsung Galaxy A24 128 GB 6 GB Ram (Samsung Türkiye Garantili),1559,4.6,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+17,Xiaomi ,4.6,Xiaomi XIAOMI REDMI NOTE 13 256GB 8GB RAM SIYAH,592,4.6,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+18,Apple ,4.8,Apple iPhone 14 128 GB,3990,4.8,Var,"['6,1', 'inç']",Lightning,128 GB,8 GB RAM,3279 mAh,24,20 MP ve Üzeri,8.0 MP
+19,Samsung ,4.5,Samsung Galaxy A25 5G 256 GB 8 GB Ram (Samsung Türkiye Garantili),154,4.5,Yok,"['6,5', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+20,Samsung ,4.8,Samsung Galaxy A55 256 GB 8 GB Ram (Samsung Türkiye Garantili),388,4.8,Yok,"['6,6', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+21,Apple ,4.9,Apple iPhone 15 Pro Max 512 GB,987,4.9,Var,"['6,7', 'inç']",Lightning,512 GB,8 GB RAM,4852 mAh,24,20 MP ve Üzeri,8.0 MP
+22,Apple ,4.8,Apple iPhone 11 64 GB,24601,4.8,Var,"['6,1', 'inç']",Lightning,64 GB,8 GB RAM,3110 mAh,24,20 MP ve Üzeri,8.0 MP
+23,Samsung ,4.7,Samsung Galaxy S22 5G 128 GB (Samsung Türkiye Garantili),2160,4.7,Var,"['6,1', 'inç']",Type-C,128 GB,8 GB RAM,3700 mAh,24,20 MP ve Üzeri,8.0 MP
+24,Samsung ,4.7,Samsung SAMSUNG GALAXY S23 FE 128GB 8GB RAM GRAFİT,386,4.7,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+25,POCO ,4.7,POCO Poco X6 Pro 5g 8 GB Ram 256 GB Siyah Cep Telefonu,175,4.7,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5500 mAh,24,20 MP ve Üzeri,8.0 MP
+26,Samsung ,4.7,Samsung Galaxy A05 128 GB 4 GB Ram (Samsung Türkiye Garantili),145,4.7,Yok,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+27,Xiaomi ,4.6,Xiaomi Redmi 13 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),43,4.6,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5030 mAh,24,20 MP ve Üzeri,8.0 MP
+28,Samsung ,4.7,Samsung Galaxy S23 Ultra 256 GB 8 GB Ram (Samsung Türkiye Garantili),649,4.7,Var,"['6,8', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+29,Samsung ,4.8,Samsung Galaxy S23 128 GB 8 GB Ram (Samsung Türkiye Garantili),1869,4.8,Var,"['6,1', 'inç']",,128 GB,8 GB RAM,3900 mAh,24,20 MP ve Üzeri,8.0 MP
+30,Reeder ,3.6,Reeder P13 Blue Max Pro 8 GB Ram 128GB (Reeder Türkiye Garantili),1682,3.6,Var,"['6,55', 'inç']",,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+31,Samsung ,4.7,Samsung Galaxy A25 5G 128 GB 6 GB Ram (Samsung Türkiye Garantili),358,4.7,Yok,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+32,Samsung ,4.7,Samsung Galaxy A15 128 GB 6 GB Ram (Samsung Türkiye Garantili),328,4.7,Yok,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+33,Samsung ,4.7,Samsung Galaxy S24+ 256 GB 12 GB Ram (Samsung Türkiye Garantili),410,4.7,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,4900 mAh,24,20 MP ve Üzeri,8.0 MP
+34,Samsung ,3.5,Samsung B310 Dual Sim,3191,3.5,,"['2,0', 'inç']",Micro USB,,8 GB RAM,,24,20 MP ve Üzeri,8.0 MP
+35,Apple ,4.9,Apple iPhone 13 256 GB,5389,4.9,Var,"['6,1', 'inç']",,256 GB,8 GB RAM,3095 mAh,24,20 MP ve Üzeri,8.0 MP
+36,Samsung ,3.1,Samsung B310E Cep Telefonu (Resmi BTK Kayıtlı)2G VE 3G HATLAR İÇİN ,1540,3.1,Yok,"['2,0', 'inç']",Micro USB,4 MB,8 GB RAM,800 mAh,24,20 MP ve Üzeri,8.0 MP
+37,Samsung ,4.7,Samsung Galaxy A35 256 GB 8 GB Ram (Samsung Türkiye Garantili),464,4.7,Yok,"['6,6', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+38,Samsung ,4.9,Samsung Galaxy A15 256 GB 8 GB Ram (Samsung Türkiye Garantili),36,4.9,Yok,"['6,5', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+39,HONOR ,5.0,HONOR Honor 200 512 GB 12 GB Ram (Honor Türkiye Garantili),2,5.0,Var,"['6,7', 'inç']",Type-C,512 GB,8 GB RAM,5200 mAh,24,20 MP ve Üzeri,8.0 MP
+40,Apple ,4.8,Apple iPhone 11 128 GB,29184,4.8,Var,"['6,1', 'inç']",Lightning,128 GB,8 GB RAM,3110 mAh,24,20 MP ve Üzeri,8.0 MP
+41,Samsung ,4.7,Samsung Galaxy S23 FE 256 GB (Samsung Türkiye Garantili),747,4.7,Var,"['6,4', 'inç']",Type-C,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+42,Samsung ,4.4,Samsung Galaxy A05S 128 GB 4 GB Ram (Samsung Türkiye Garantili),156,4.4,Yok,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+43,Samsung ,4.8,Samsung Galaxy S24 Ultra 512 GB 12 GB Ram (Samsung Türkiye Garantili),347,4.8,Var,"['6,8', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+44,Samsung ,3.4,Samsung B350 Tuşlu Cep Telefonu,871,3.4,Yok,"['1,36', 'inç']",Micro USB,1 GB,8 GB RAM,1000 mAh,,20 MP ve Üzeri,8.0 MP
+45,Xiaomi ,3.8,Xiaomi Redmi Note 13 Pro Plus 5G 512 GB 12 GB Ram (Xiaomi Türkiye Garantili),331,3.8,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+46,Xiaomi ,4.7,Xiaomi Redmi 13C 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),95,4.7,Var,"['6,74', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+47,Xiaomi ,4.7,Xiaomi 13T 256 GB 12 GB Ram (Xiaomi Türkiye Garantili),742,4.7,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+48,POCO ,4.6,POCO Poco F6 Pro 512GB 12GB Ram (Poco Türkiye Garantili),31,4.6,Var,"['6,67', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+49,Samsung ,4.8,Samsung Galaxy S24 Ultra 256 GB 12 GB Ram (Samsung Türkiye Garantili),122,4.8,Var,"['6,8', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+50,Reeder ,3.8,Reeder P13 Blue Max 2022 128 GB (Reeder Türkiye Garantili),7121,3.8,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+51,HONOR ,4.8,HONOR 200 Pro 512 GB 12 GB Ram (Honor Türkiye Garantili),139,4.8,Var,"['6,78', 'inç']",Type-C,512 GB,8 GB RAM,5200 mAh,24,20 MP ve Üzeri,8.0 MP
+52,Xiaomi ,4.6,Xiaomi Redmi Note 11 Pro 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),8521,4.6,Var,"['6,67', 'inç']",,128 GB,8 GB RAM,5160 mAh,24,20 MP ve Üzeri,8.0 MP
+53,Samsung ,4.7,Samsung Galaxy A54 256 GB 8 GB Ram (Samsung Türkiye Garantili),2965,4.7,Yok,"['6,4', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+54,Samsung ,3.4,Samsung B310 E  Dual Sim Kamerasız Cep Telefonu,444,3.4,Yok,"['3', 'inç']",Micro USB,Yok,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+55,Apple ,4.8,Apple iPhone 15 Plus 128 GB,467,4.8,Var,"['6,7', 'inç']",Lightning,128 GB,8 GB RAM,4912 mAh,24,20 MP ve Üzeri,8.0 MP
+56,Samsung ,4.8,Samsung Galaxy S23 256 GB 8 GB Ram (Samsung Türkiye Garantili),1361,4.8,Var,"['6,1', 'inç']",Type-C,256 GB,8 GB RAM,3900 mAh,24,20 MP ve Üzeri,8.0 MP
+57,Samsung ,4.5,Samsung Galaxy A14 64 GB 4 GB Ram (Samsung Türkiye Garantili),328,4.5,Yok,"['6,6', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+58,POCO ,4.7,POCO Poco X6 Pro 5g 512GB 12GB Ram (Poco Türkiye Garantili),1331,4.7,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+59,Xiaomi ,4.7,Xiaomi 13T Pro 512 GB 12 GB Ram (Xiaomi Türkiye Garantili),385,4.7,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+60,Oppo ,4.4,Oppo Reno11 F 5G 8GB 256GB (Oppo Türkiye Garantili),107,4.4,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5020 mAh,24,20 MP ve Üzeri,8.0 MP
+61,Apple ,4.8,Apple iPhone 14 256 GB,1674,4.8,Var,"['6,1', 'inç']",,256 GB,8 GB RAM,3279 mAh,24,20 MP ve Üzeri,8.0 MP
+62,Samsung ,4.5,Samsung Galaxy M15 128 GB 4 GB Ram (Samsung Türkiye Garantili),87,4.5,Yok,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+63,Samsung ,3.4,Samsung E1205 Tuşlu Telefon (Resmi BTK Kayıtlı)2G VE 3G HATLAR İÇİN ,2225,3.4,Yok,,Micro USB,Yok,8 GB RAM,,24,20 MP ve Üzeri,8.0 MP
+64,Hiking ,3.6,Hiking X9 Gold Tuşlu Cep Telefonu Çelik Kasa Distribitör Garantili,804,3.6,Yok,"['2,4', 'inç']",Micro USB,Yok,8 GB RAM,750 mAh,24,20 MP ve Üzeri,8.0 MP
+65,Tecno ,4.4,Tecno TECNO CAMON 18 128 GB 6+5 GB Ram (TECNO Türkiye Garantili),271,4.4,Yok,"['6,8', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+66,Realme ,4.6,Realme C55 256 GB 8 GB Ram (Realme Türkiye Garantili),571,4.6,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+67,Nokia ,2.9,Nokia x Flip Cover,114,2.9,Yok,"['4,3', 'inç']",,158 MB,8 GB RAM,1001 mAh,2,20 MP ve Üzeri,8.0 MP
+68,Nokia ,3.3,Nokia Mega Nokia 1200 Tuşlu Telefon,552,3.3,Yok,"['1,36', 'inç']",,1 GB,8 GB RAM,1000 mAh,1,20 MP ve Üzeri,8.0 MP
+69,Tecno ,4.8,Tecno Spark 20 Pro 256 GB 8+8 GB Ram (Tecno Türkiye Garantili),123,4.8,Var,"['6,78', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+70,Apple ,4.8,Apple iPhone 15 Plus 256 GB,299,4.8,Var,"['6,7', 'inç']",Lightning,256 GB,8 GB RAM,4912 mAh,24,20 MP ve Üzeri,8.0 MP
+71,Samsung ,4.7,Samsung Galaxy A54 128 GB 8 GB Ram (Samsung Türkiye Garantili),2381,4.7,Yok,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+72,Nokia ,3.5,Nokia 1110 Telefon,56,3.5,Yok,"['2,1', 'inç']",,150 MB,8 GB RAM,1004 mAh,2,20 MP ve Üzeri,8.0 MP
+73,Samsung ,3.8,Samsung B310 E Dual Sim Kamerasız Cep Telefonu,42,3.8,Yok,"['2,0', 'inç']",Micro USB,110 MB,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+74,General Mobile ,5.0,General Mobile General Mobile Gm 23 Se Dual Sim 4/128GB Mavi,5,5.0,Var,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+75,Samsung ,4.7,Samsung Galaxy S24 128 GB 8 GB Ram (Samsung Türkiye Garantili),193,4.7,Var,"['6,1', 'inç']",,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+76,vivo ,4.5,vivo Vivo Y16 128 GB 4 GB Ram (Vivo Türkiye Garantili),86,4.5,Var,"['6,51', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+77,Samsung ,4.5,Samsung Galaxy A04 64 GB 4 GB Ram (Samsung Türkiye Garantili),456,4.5,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+78,Reeder ,3.8,Reeder S23 Pro Max 256 GB 8 GB Ram (Reeder Türkiye Garantili),45,3.8,Var,"['6,51', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+79,Samsung ,4.7,Samsung Galaxy A15 128 GB 4 GB Ram (Samsung Türkiye Garantili),102,4.7,Yok,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+80,Xiaomi ,4.6,Xiaomi Redmi 12C 128 GB 4 GB Ram (Xiaomi Türkiye Garantili),2511,4.6,Var,"['6,71', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+81,TCL ,4.7,TCL Tcl 4022S T302D Tuşlu Telefon,56,4.7,Yok,"['2,8', 'inç']",Type-C,16 MB,8 GB RAM,1030 mAh,24,20 MP ve Üzeri,8.0 MP
+82,Omix ,4.2,Omix X3 64 GB 4 GB Gri (Omix Türkiye Garantili),5,4.2,Yok,"['6,3', 'inç']",Type-C,64 GB,8 GB RAM,1120 mAh,24,20 MP ve Üzeri,8.0 MP
+83,vivo ,4.5,vivo Vivo Y36 128 GB 8 GB Ram (Vivo Türkiye Garantili),124,4.5,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+84,Apple ,4.8,Apple iPhone 15 Pro 512 GB,200,4.8,Var,"['6,1', 'inç']",Lightning,512 GB,8 GB RAM,3650 mAh,24,20 MP ve Üzeri,8.0 MP
+85,Nokia ,2.4,Nokia Nokıa 2730C,5,2.4,Yok,"['1,43', 'inç']",Micro USB,Yok,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+86,Samsung ,4.9,Samsung Galaxy A05 64 GB 4 GB Ram (Samsung Türkiye Garantili),57,4.9,Yok,"['6,7', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+87,Huawei ,4.7,Huawei Pura 70 12 256GB Siyah(Huawei Türkiye garantili),22,4.7,Var,"['6,6', 'inç']",Type-C,256 GB,8 GB RAM,4900 mAh,24,20 MP ve Üzeri,8.0 MP
+88,Apple ,4.8,Apple iPhone 15 Pro Max 1 Tb,187,4.8,Var,"['6,7', 'inç']",Lightning,1 TB,8 GB RAM,4852 mAh,24,20 MP ve Üzeri,8.0 MP
+89,Reeder ,3.9,Reeder S19 Max 64 GB 4 GB Ram (Reeder Türkiye Garantili),147,3.9,Var,"['6,51', 'inç']",,64 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+90,Xiaomi ,3.2,Xiaomi Redmi Note 12 Pro 256 GB 8 GB Ram 5g (Xiaomi Türkiye Garantili),37,3.2,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+91,Reeder ,4.2,Reeder S19 Max 128 GB 4 GB Ram (Reeder Türkiye Garantili),2442,4.2,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+92,Realme ,4.8,Realme 11 256 GB 8 GB Ram (Realme Türkiye Garantili),58,4.8,Var,"['6,71', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+93,Philips ,3.7,Philips Phılıps Ct S220 Tuşlu Cep Telefonu,38,3.7,Yok,"['1,8', 'inç']",Type-C,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+94,Tecno ,4.6,Tecno Spark 10 Pro 256 GB 8 GB Ram (Tecno Türkiye Garantili),359,4.6,Var,"['6,8', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+95,Samsung ,4.8,Samsung Galaxy S21 FE 5G 128 GB Snapdragon 2. Nesil (Samsung Türkiye Garantili),174,4.8,Var,"['6,4', 'inç']",,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+96,Realme ,4.8,Realme 10 128 GB 8 GB Ram (Realme Türkiye Garantili),73,4.8,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,1248 mAh,1,20 MP ve Üzeri,8.0 MP
+97,Samsung ,4.7,Samsung Galaxy S24 256 GB 8 GB Ram (Samsung Türkiye Garantili),61,4.7,Var,"['6,1', 'inç']",,256 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+98,Nokia ,,Nokia Internet Bağlantılı Askertelefonu,,,Yok,"['1,43', 'inç']",Micro USB,Yok,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+99,vivo ,5.0,vivo V30 5G 512 GB 12 GB Ram (Vivo Türkiye Garantili),4,5.0,Var,"['6,78', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+100,Samsung ,4.7,Samsung Galaxy A34 128 GB 8 GB Ram (Samsung Türkiye Garantili),4284,4.7,Yok,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+101,Xiaomi ,4.7,Xiaomi Redmi Note 12 Pro 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),10030,4.7,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+102,Apple ,4.9,Apple iPhone 12 256 GB,547,4.9,Var,"['6,1', 'inç']",Lightning,256 GB,8 GB RAM,2815 mAh,24,20 MP ve Üzeri,8.0 MP
+103,Oppo ,4.3,Oppo A38 128GB 6gb Ram (Oppo Türkiye Garantili),9,4.3,Var,"['6,56', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+104,vivo ,4.6,vivo Vivo Y17S 128 GB 4 GB Ram (Vivo Türkiye Garantili),86,4.6,Var,"['6,56', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+105,Hiking ,3.6,Hiking X9 Tuşlu Cep Telefonu Türkiye Distribitör Garantili,10,3.6,Yok,"['2,4', 'inç']",Micro USB,Yok,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+106,Reeder ,3.8,Reeder P13 Blue Max L 2022 64 GB (Reeder Türkiye Garantili),720,3.8,Var,"['6,26', 'inç']",,64 GB,8 GB RAM,3800 mAh,24,20 MP ve Üzeri,8.0 MP
+107,Samsung ,4.6,Samsung Galaxy A04 128 GB 4 GB Ram (Samsung Türkiye Garantili),380,4.6,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+108,Nokia ,2.6,Nokia Nokıa 2730C,5,2.6,Yok,"['1,43', 'inç']",Micro USB,Yok,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+109,Xiaomi ,4.5,Xiaomi Redmi Note 12 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),1053,4.5,Var,"['6,71', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+110,Panasonic ,4.6,Panasonic Kx TU155 Exbn Tuşlu Cep Telefonu (2 Yıl Türkiye Distribütör Garantili),8,4.6,Yok,"['2,4', 'inç']",Type-C,64 MB,8 GB RAM,1300 mAh,12,20 MP ve Üzeri,8.0 MP
+111,General Mobile ,4.7,General Mobile General Mobile Gm 24 Pro 256 GB 8 GB Ram (General Mobile Garantili),261,4.7,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,4700 mAh,24,20 MP ve Üzeri,8.0 MP
+112,Infinix ,4.7,Infinix İnfinix Hot 30 256 GB 8 GB Ram (İnfinix Türkiye Garantili),25,4.7,Var,"['6,78', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+113,Hiking ,3.5,Hiking X11 Siyah Tuşlu Telefonu 2 Yıl Türkiye Distribitör Garantili,555,3.5,Yok,"['1,77', 'inç']",Micro USB,Yok,8 GB RAM,800 mAh,24,20 MP ve Üzeri,8.0 MP
+114,Reeder ,4.3,Reeder S19 Max Pro 128 GB 4 GB Ram (Reeder Türkiye Garantili),751,4.3,Yok,"['6,0', 'inç']",,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+115,Apple ,4.8,Apple iPhone 12 64 GB,5213,4.8,Var,"['6,1', 'inç']",Lightning,64 GB,8 GB RAM,2815 mAh,24,20 MP ve Üzeri,8.0 MP
+116,Realme ,4.7,Realme C55 128 GB 6 GB Ram (Realme Türkiye Garantili),599,4.7,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+117,Samsung ,2.7,Samsung B310 Tuşlu Cep Telefonu,31,2.7,Yok,"['2,0', 'inç']",Micro USB,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+118,Xiaomi ,4.5,Xiaomi Redmi 10 2022 128 GB (Xiaomi Türkiye Garantili),3165,4.5,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+119,Philips ,3.0,Philips Phılıps Cts 220 Tuşlu Asker Telefonu,21,3.0,Yok,"['1,77', 'inç']",,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+120,Reeder ,4.0,Reeder S19 Max 32 GB 2 GB Ram (Reeder Türkiye Garantili),360,4.0,Var,"['6,51', 'inç']",,32 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+121,Samsung ,4.5,Samsung Galaxy A04-64 GB 4 GB Ram (Samsung Türkiye Garantili),53,4.5,Yok,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+122,Samsung ,4.8,Samsung Galaxy Z Flip5 256 GB 8 GB Ram (Samsung Türkiye Garantili),131,4.8,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,3700 mAh,24,20 MP ve Üzeri,8.0 MP
+123,Samsung ,4.5,Samsung Galaxy A14 128 GB 4 GB Ram (Samsung Türkiye Garantili),406,4.5,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+124,Xiaomi ,4.6,Xiaomi 14 Ultra 512 GB 16 GB Ram (Xiaomi Türkiye Garantili),48,4.6,Var,"['6,73', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+125,Nokia ,2.3,Nokia Nokıa 225 Kamerasız Tuşlu Telefon LED Fenerli Radyolu,3,2.3,Yok,"['1,8', 'inç']",,Yok,8 GB RAM,800 mAh,24,20 MP ve Üzeri,8.0 MP
+126,Samsung ,4.6,Samsung Galaxy A04S 64 GB (Samsung Türkiye Garantili) Siyah 64 GB,1889,4.6,Var,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+127,Alcatel ,3.7,Alcatel 1 2021 16 GB (Alcatel Türkiye Garantili),1151,3.7,Yok,"['5,0', 'inç']",Micro USB,16 GB,8 GB RAM,2000 mAh,24,20 MP ve Üzeri,8.0 MP
+128,POCO ,4.7,POCO Poco X6 5g 256GB 12GB Ram (Poco Türkiye Garantili),259,4.7,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5100 mAh,24,20 MP ve Üzeri,8.0 MP
+129,Xiaomi ,3.4,Xiaomi Redmi Note 12S 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),460,3.4,Var,"['6,43', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+130,TCL ,4.3,TCL 20E 32 GB 3 GB Ram (TCL Türkiye Garantili),103,4.3,Var,"['6,52', 'inç']",Micro USB,32 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+131,POCO ,,POCO Poco X6 5G 12/512 GB,,,Var,"['6,67', 'inç']",Type-C,512 GB,8 GB RAM,5100 mAh,2,20 MP ve Üzeri,8.0 MP
+132,vivo ,4.7,vivo Vivo Y35 256 GB 8 GB Ram (Vivo Türkiye Garantili),521,4.7,Var,"['6,58', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+133,Reeder ,,Reeder P13 Blue Max Pro,,,Yok,"['6,5', 'inç']",Micro USB,128 GB,8 GB RAM,1387 mAh,2,20 MP ve Üzeri,8.0 MP
+134,General Mobile ,4.8,General Mobile General Mobile GM 23 SE 128 GB 4+2 GB Ram (General Mobile Garantili),99,4.8,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+135,Reeder ,1.0,Reeder P13 Blue Max Pro 2021 6 GB Ram 128 GB (Reeder Türkiye Garantili),1,1.0,Yok,"['6,5', 'inç']",,128 GB,8 GB RAM,5380 mAh,24,20 MP ve Üzeri,8.0 MP
+136,Samsung ,4.8,Samsung Galaxy S23 Ultra 512 GB 12 GB Ram (Samsung Türkiye Garantili),719,4.8,Var,"['6,8', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+137,Samsung ,2.8,Samsung c160 Tuşlu Telefon BTK KAYITLI GANRANTİLİ,47,2.8,Yok,"['2,8', 'inç']",,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+138,Nothing ,4.8,Nothing Phone 1 256 GB 8 GB Ram (Nothing Türkiye Garantili),113,4.8,Var,"['6,55', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+139,Xiaomi ,4.4,Xiaomi Redmi Note 10 5G 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),91,4.4,Yok,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+140,Tecno ,4.7,Tecno Camon 19 Neo 128 GB 6 GB Ram (Tecno Türkiye Garantili),110,4.7,Var,"['6,8', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+141,Realme ,4.5,Realme realme 12 PRO Plus 12 GB 512 GB (realme Türkiye Garantili)-Bej,15,4.5,Var,"['6,7', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+142,Xiaomi ,4.6,Xiaomi Redmi 10C 128 GB 4 GB Ram (Xiaomi Türkiye Garantili),1380,4.6,Var,"['6,71', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+143,Samsung ,4.6,Samsung Galaxy A13 64 GB (Samsung Türkiye Garantili),1450,4.6,Var,"['6,6', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+144,Panasonic ,4.2,Panasonic KX-TU550EXB Katlanabilir Renkli Ekran 4g Tuşlu Cep Telefonu Siyah (2 Yıl Türkiye Distribütör Garantili),5,4.2,Yok,"['2,8', 'inç']",Type-C,64 MB,8 GB RAM,1400 mAh,12,20 MP ve Üzeri,8.0 MP
+145,Realme ,4.8,Realme 10 Pro Plus 256 GB 12 GB Ram (Realme Türkiye Garantili),93,4.8,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+146,Tecno ,4.9,Tecno Camon 30 256 GB 12 GB Ram (Tecno Türkiye Garantili),19,4.9,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+147,Samsung ,4.7,Samsung Galaxy A04 128 GB 4 GB Ram (Samsung Türkiye Garantili),116,4.7,Yok,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+148,Apple ,4.9,Apple iPhone 14 Plus 128 GB,924,4.9,Var,"['6,7', 'inç']",Lightning,128 GB,8 GB RAM,4323 mAh,24,20 MP ve Üzeri,8.0 MP
+149,Omix ,4.2,Omix X700 128 GB 8 GB Ram (Omix Türkiye Garantili),28,4.2,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+150,Samsung ,4.7,Samsung Galaxy A53 5G 128 GB (Samsung Türkiye Garantili),2327,4.7,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+151,Reeder ,3.8,Reeder S19 Max Pro S 128 GB 8 GB Ram (Reeder Türkiye Garantili),107,3.8,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+152,Infinix ,4.7,Infinix İnfinix Note 30 256 GB 8 GB Ram (İnfinix Türkiye Garantili),69,4.7,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+153,Realme ,4.7,Realme 10 256 GB 8 GB Ram (Realme Türkiye Garantili),111,4.7,Yok,"['6,4', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+154,Xiaomi ,4.1,Xiaomi Redmi 9A 4gb Ram 64GB Mavi (Xiaomi Türkiye Garantili),16,4.1,Var,"['6,53', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+155,Hiking ,5.0,Hiking X11  Tuşlu Cep Telefonu 2 Yıl Distribitör Garantili,7,5.0,Yok,"['1,77', 'inç']",Micro USB,Yok,8 GB RAM,800 mAh,24,20 MP ve Üzeri,8.0 MP
+156,vivo ,4.6,vivo Vivo V29 5G 256 GB 8 GB Ram (Vivo Türkiye Garantili),98,4.6,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,4600 mAh,24,20 MP ve Üzeri,8.0 MP
+157,Xiaomi ,4.5,Xiaomi Redmi 9A 4gb Ram 64GB Siyah (Xiaomi Türkiye Garantili),17,4.5,Var,"['6,53', 'inç']",Micro USB,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+158,Omix ,4.1,Omix X600 128 GB 6 GB Ram (Omix Türkiye Garantili),190,4.1,Var,"['6,78', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+159,Xiaomi ,4.6,Xiaomi Redmi Note 12 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),1607,4.6,Var,"['6,71', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+160,Realme ,4.5,Realme C53 128 GB 4 GB Ram (Realme Türkiye Garantili),122,4.5,Var,"['6,74', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+161,Nokia ,2.0,Nokia 1208 Tuşlu Cep Telefonu,6,2.0,Yok,"['1,52', 'inç']",,16 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+162,Tecno ,4.5,Tecno Camon 20 Pro 256 GB 8 GB Ram (Tecno Türkiye Garantili),157,4.5,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+163,Tecno ,4.7,Tecno TECNO POVA 3 128 GB 6+5 GB Ram (TECNO Türkiye Garantili),333,4.7,Var,"['6,95', 'inç']",,128 GB,8 GB RAM,7000 mAh,24,20 MP ve Üzeri,8.0 MP
+164,Tecno ,4.7,Tecno Pova 4 128 GB 8 GB Ram (Tecno Türkiye Garantili),181,4.7,Var,"['6,82', 'inç']",,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+165,Oneplus ,4.9,Oneplus 11 5G 256 GB 16 GB Ram (Oneplus Türkiye Garantili),23,4.9,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+166,Xiaomi ,4.2,Xiaomi Redmi Note 11S 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),929,4.2,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+167,Nothing ,4.7,Nothing Phone (2a) 256 GB 12 GB Ram (Nothing Türkiye Garantili),32,4.7,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+168,vivo ,5.0,vivo Vivo X100 Pro 512 GB 16 GB Ram (Vivo Türkiye Garantili),1,5.0,Var,"['6,78', 'inç']",Type-C,512 GB,8 GB RAM,5400 mAh,24,20 MP ve Üzeri,8.0 MP
+169,vivo ,4.6,vivo Vivo V29 Lite 5G 256 GB 8 GB Ram (Vivo Türkiye Garantili),111,4.6,Var,"['6,78', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+170,vivo ,4.5,vivo Vivo Y36 256 GB 8 GB Ram (Vivo Türkiye Garantili),173,4.5,Var,"['6,6', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+171,LG ,3.7,LG S.o.s  Acil Durum  Arama  Tuşu Kamerasız Radyo Müzik Çalar  Hızlı Aramalı Tuşlucep Telefonu,3,3.7,Yok,"['2,44', 'inç']",Type-C,110 MB,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+172,Xiaomi ,4.6,Xiaomi Redmi Note 13 Pro 5G 512 GB 12 GB Ram (Xiaomi Türkiye Garantili),495,4.6,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5100 mAh,24,20 MP ve Üzeri,8.0 MP
+173,Casper ,4.6,Casper VIA A40 256 GB 8 GB RAM Gece Mavisi,42,4.6,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+174,Reeder ,4.5,Reeder S19 Max 128 GB 2+2 GB Ram (Reeder Türkiye Garantili),37,4.5,Yok,"['6,5', 'inç']",,128 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+175,Nothing ,5.0,Nothing Phone 1 128 GB 8 GB Ram (Nothing Türkiye Garantili),9,5.0,Var,"['6,55', 'inç']",,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+176,Oppo ,4.6,Oppo A96 128 GB 6 GB Ram (Oppo Türkiye Garantili),181,4.6,Var,"['6,59', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+177,Hiking ,3.3,Hiking X11 Tuşlu Telefonu Asker Telefonu,3,3.3,Yok,"['1,77', 'inç']",,Yok,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+178,Alcatel ,4.4,Alcatel 2057D Tuşlu Cep Telefonu,149,4.4,Yok,"['5,01', 'inç']",,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+179,Tecno ,4.6,Tecno TECNO Camon 20 256 GB 8 GB Ram ( Türkiye Garantili),137,4.6,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+180,Samsung ,4.7,Samsung Galaxy A04S 128 GB 4 GB Ram (Samsung Türkiye Garantili),779,4.7,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+181,HONOR ,4.8,HONOR Magic 6 Pro 512 GB 12 GB Ram 5g (Honor Türkiye Garantili),280,4.8,Var,"['6,8', 'inç']",Type-C,512 GB,8 GB RAM,5600 mAh,24,20 MP ve Üzeri,8.0 MP
+182,Tecno ,4.5,Tecno Spark 20C 128 GB 4+4 GB Ram (Tecno Türkiye Garantili),4,4.5,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+183,Panasonic ,,Panasonic KX-TU110 Exb 1.77 Inç Tuşlu Cep Telefonu (2 Yıl Türkiye Distribütör Garantili),,,Yok,"['2,4', 'inç']",Type-C,64 MB,8 GB RAM,1400 mAh,12,20 MP ve Üzeri,8.0 MP
+184,General Mobile ,4.5,General Mobile General Mobile,2,4.5,Yok,"['6,52']",Type-C,128 GB,8 GB RAM,1916 mAh,2,20 MP ve Üzeri,8.0 MP
+185,Huawei ,4.8,Huawei P60 Pro 256 GB 8 GB Ram (Huawei Türkiye Garantili),132,4.8,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,4815 mAh,24,20 MP ve Üzeri,8.0 MP
+186,Realme ,4.6,Realme 11 Pro 5G 256 GB 8 GB Ram (Realme Türkiye Garantili),21,4.6,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+187,Panasonic ,,Panasonic KX-TU160 Exb 2.4 Inç Tuşlu Cep Telefonu (2 Yıl Türkiye Distribütör Garantili),,,Yok,"['2,4', 'inç']",Type-C,64 MB,8 GB RAM,1400 mAh,12,20 MP ve Üzeri,8.0 MP
+188,Samsung ,4.7,Samsung Galaxy A34 256 GB 8 GB Ram (Samsung Türkiye Garantili),736,4.7,Yok,"['6,6', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+189,Huawei ,4.3,Huawei Nova Y91 128 GB 8 GB Ram (Huawei Türkiye Garantili),136,4.3,Var,"['6,95', 'inç']",,128 GB,8 GB RAM,7000 mAh,24,20 MP ve Üzeri,8.0 MP
+190,Reeder ,4.2,Reeder P13 Blue Plus 2022 32 GB (Reeder Türkiye Garantili),2891,4.2,Yok,"['6,52', 'inç']",Micro USB,32 GB,8 GB RAM,4780 mAh,24,20 MP ve Üzeri,8.0 MP
+191,Xiaomi ,3.8,Xiaomi Redmi 10A 4 Ram 64 GB (Xiaomi Türkiye Garantili),63,3.8,Var,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+192,Samsung ,4.8,Samsung Galaxy S24 Ultra 1 Tb 12 GB Ram (Samsung Türkiye Garantili),16,4.8,Var,"['6,8', 'inç']",,1 TB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+193,Samsung ,4.7,Samsung Galaxy S20 FE 128 GB Cloud Mint (Samsung Türkiye Garantili),4544,4.7,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+194,Casper ,4.7,Casper VIA X40 256 GB 8 GB Ram (Casper Türkiye Garantili),18,4.7,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+195,Xiaomi ,3.4,Xiaomi Redmi Note 12 Pro 256 GB 8 GB Ram 5g (Xiaomi Türkiye Garantili),16,3.4,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+196,Omix ,4.6,Omix X600 128 GB 4 GB Ram (Omix Türkiye Garantili),12,4.6,Var,"['6,78', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+197,Oneplus ,5.0,Oneplus 12 512 GB 16GB,4,5.0,Var,"['6,82', 'inç']",Type-C,512 GB,8 GB RAM,5400 mAh,24,20 MP ve Üzeri,8.0 MP
+198,POCO ,4.8,POCO Poco X5 Pro 5G 256 GB 8 GB Ram (Poco Türkiye Garantili),3304,4.8,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+199,Tecno ,4.5,Tecno TECNO Pova 5 8/256 GB (TECNO Türkiye Garantili),73,4.5,Var,"['6,78', 'inç']",,256 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+200,Samsung ,4.6,Samsung Galaxy S21 FE 5G 128 GB (Samsung Türkiye Garantili),1275,4.6,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+201,Infinix ,4.7,Infinix İnfinix Hot 40i 256 GB 8 GB Ram + 8 GB Sanal Ram Cep Telefonu (İnfinix Türkiye Garantili),24,4.7,Var,"['6,56', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+202,Omix ,4.5,Omix X3 64 GB 4 GB Beyaz (Omix Türkiye Garantili),13,4.5,Yok,"['6,51', 'inç']",,64 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+203,Samsung ,5.0,Samsung Galaxy Z Flip6 512 GB 12 GB Ram (Samsung Türkiye Garantili),1,5.0,Var,"['6,7', 'inç']",Type-C,512 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+204,Reeder ,5.0,Reeder S23 Pro Max 1 Tb Beyaz,1,5.0,Var,"['6,51', 'inç']",Type-C,1 TB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+205,Tecno ,4.8,Tecno Spark 10 128 GB 8 GB Ram (Tecno Türkiye Garantili),70,4.8,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+206,Nothing ,4.9,Nothing Phone 2 512 GB 12 GB Ram (Nothing Türkiye Garantili),17,4.9,Var,"['6,7', 'inç']",,512 GB,8 GB RAM,4700 mAh,24,20 MP ve Üzeri,8.0 MP
+207,Apple ,4.9,Apple iPhone 14 Plus 256 GB,673,4.9,Var,"['6,7', 'inç']",Lightning,256 GB,8 GB RAM,4323 mAh,24,20 MP ve Üzeri,8.0 MP
+208,Realme ,4.9,Realme realme 12 PRO Plus 8 GB 256 GB (realme Türkiye Garantili),9,4.9,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+209,Huawei ,4.7,Huawei Nova 12i 128 GB 8 GB Ram - Siyah (Huawei Türkiye Garantili),19,4.7,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+210,vivo ,4.6,vivo Vivo V21 128 GB 8 GB Ram (Vivo Türkiye Garantili),35,4.6,Var,"['6,44', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+211,Dodge ,2.3,Dodge S3 Tuşlu Cep Telefonu 2 Yıl Türkiye Garantili,6,2.3,Yok,"['1,77', 'inç']",,Yok,8 GB RAM,800 mAh,24,20 MP ve Üzeri,8.0 MP
+212,POCO ,4.4,POCO Poco C40 64 GB (Poco Türkiye Garantili),2497,4.4,Var,"['6,7', 'inç']",Type-C,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+213,vivo ,4.5,vivo Vivo Y27 128 GB 6 GB Ram (Vivo Türkiye Garantili),33,4.5,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+214,Oukitel ,4.2,Oukitel C21 Plus 128 GB (Oukitel Türkiye Garantili),138,4.2,Var,"['6,4', 'inç']",,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+215,Panasonic ,4.1,Panasonic KX-TU250EXB Renkli Ekran 4g Tuşlu Cep Telefonu Siyah (2 Yıl Türkiye Distribütör Garantili),8,4.1,Yok,"['2,4', 'inç']",Type-C,64 MB,8 GB RAM,1500 mAh,12,20 MP ve Üzeri,8.0 MP
+216,Samsung ,4.5,Samsung Galaxy M23 5G 128 GB (Samsung Türkiye Garantili),4012,4.5,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+217,POCO ,4.7,POCO Poco M6 Pro 512GB 12GB Ram (Poco Türkiye Garantili),163,4.7,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+218,Xiaomi ,4.5,Xiaomi Redmi 9c 64 GB (Xiaomi Türkiye Garantili),6868,4.5,Var,"['6,53', 'inç']",Micro USB,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+219,Infinix ,4.8,Infinix İnfinix Hot 30i 128 GB 8 GB Ram (İnfinix Türkiye Garantili),12,4.8,Yok,"['6,56', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+220,Tecno ,5.0,Tecno Camon 20S Pro 5G 256 GB 8 GB Ram (Tecno Türkiye Garantili),3,5.0,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+221,Xiaomi ,4.4,Xiaomi Redmi Note 11 Pro Plus 5G 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),42,4.4,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+222,Oppo ,,Oppo A60 8GB 256GB (Oppo Türkiye Garantili),,,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+223,Casper ,4.4,Casper VIA X30 Plus 256 GB 8 GB Ram (Casper Türkiye Garantili),41,4.4,Var,"['6,5', 'inç']",Type-C,256 GB,8 GB RAM,4600 mAh,24,20 MP ve Üzeri,8.0 MP
+224,vivo ,4.5,vivo Vivo Y16 64 GB 4 GB Ram (Vivo Türkiye Garantili),249,4.5,Var,"['6,51', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+225,Xiaomi ,4.6,Xiaomi Redmi Note 11 Pro 128 GB 6 GB (Xiaomi Türkiye Garantili),930,4.6,Yok,"['6,67', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+226,Samsung ,4.7,Samsung Galaxy A52 128 GB (Samsung Türkiye Garantili),5331,4.7,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+227,Xiaomi ,4.6,Xiaomi Mi 11T 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),288,4.6,Var,"['6,67', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+228,Realme ,4.5,Realme C25Y 128 GB 4 GB Ram (Realme Türkiye Garantili),506,4.5,Yok,"['6,5', 'inç']",Micro USB,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+229,Reeder ,4.1,Reeder S19 Max Pro 256 GB 6 GB Ram (Reeder Türkiye Garantili),1379,4.1,Yok,"['6,7', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+230,Xiaomi ,4.6,Xiaomi Redmi Note 11 64 GB (Xiaomi Türkiye Garantili),634,4.6,Yok,"['6,43', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+231,Omix ,4.9,Omix X7 128 GB 8 GB Siyah (Omix Türkiye Garantili),9,4.9,Var,"['6,78', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+232,Oneplus ,4.8,Oneplus Nord 3 5G 256 GB 16 GB Ram (Oneplus Türkiye Garantili),35,4.8,Var,"['6,74', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+233,TCL ,4.5,TCL 30 SE 64 GB 4 GB Ram (TCL Türkiye Garantili),16,4.5,Var,"['6,52', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+234,Samsung ,3.2,Samsung E1190,1543,3.2,,"['1,43', 'inç']",,,8 GB RAM,,24,20 MP ve Üzeri,8.0 MP
+235,Tecno ,4.4,Tecno TECNO Spark 10 4/128 GB (TECNO Türkiye Garantili),22,4.4,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+236,Omix ,5.0,Omix X6 128 GB 6 GB Mavi (Omix Türkiye Garantili),9,5.0,Yok,"['6,08', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+237,Apple ,5.0,Apple iPhone 14 Plus 512 GB,52,5.0,Var,"['6,7', 'inç']",Lightning,512 GB,8 GB RAM,4323 mAh,24,20 MP ve Üzeri,8.0 MP
+238,Nokia ,2.4,Nokia NOKIA700TUŞLU Cep Telefonu,14,2.4,Yok,"['1,36', 'inç']",,1 GB,8 GB RAM,1001 mAh,24,20 MP ve Üzeri,8.0 MP
+239,Samsung ,4.7,Samsung Galaxy S22 Ultra 5G 512 GB (Samsung Türkiye Garantili),486,4.7,Var,"['6,8', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+240,Infinix ,4.0,Infinix Zero 30 8 GB Ram + 8 GB Sanal Ram 256 GB Cep Telefonu (Infinix Türkiye Garantili),9,4.0,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+241,Reeder ,3.3,Reeder P13 Blue Max Pro 256 GB (Reeder Türkiye Garantili),767,3.3,Yok,"['6,5', 'inç']",Micro USB,256 GB,8 GB RAM,5380 mAh,24,20 MP ve Üzeri,8.0 MP
+242,Apple ,4.8,Apple Yeni iPhone SE 64 GB (3.Nesil),539,4.8,Yok,"['4,7', 'inç']",,64 GB,8 GB RAM,1821 mAh,24,20 MP ve Üzeri,8.0 MP
+243,Xiaomi ,4.3,Xiaomi Redmi 12 128 GB 4 GB Ram (Xiaomi Türkiye Garantili),209,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+244,Samsung ,4.6,Samsung Galaxy M33 5G 128 GB (Samsung Türkiye Garantili),1690,4.6,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+245,Casper ,4.8,Casper VIA X30 128 GB 8 GB RAM (Casper Türkiye Garantili),30,4.8,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,4600 mAh,24,20 MP ve Üzeri,8.0 MP
+246,Infinix ,4.3,Infinix İnfinix Hot 30 128 GB 4 GB Ram (İnfinix Türkiye Garantili),23,4.3,Var,"['6,78', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+247,Xiaomi ,4.6,Xiaomi Redmi Note 10 Pro 128 GB 8 GB RAM (Xiaomi Türkiye Garantili),6488,4.6,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5020 mAh,24,20 MP ve Üzeri,8.0 MP
+248,HONOR ,4.8,HONOR Magic V2 512 GB 16 GB Ram (Honor Türkiye Garantili),164,4.8,Var,"['7,8', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+249,Tecno ,3.7,Tecno Spark 20 Pro 256 GB 12 GB Ram (Tecno Türkiye Garantili),3,3.7,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+250,Omix ,5.0,Omix X4 6GB/128GB,3,5.0,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+251,Omix ,3.9,Omix X3 64 GB 8 GB Ram (4+4 Dinamik Ram)  Omix Türkiye Garantili,19,3.9,Var,"['6,51', 'inç']",Type-C,64 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+252,Infinix ,4.7,Infinix İnfinix Hot 20 128 GB 8 GB Ram (İnfinix Türkiye Garantili),168,4.7,Var,"['6,82', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+253,Omix ,4.2,Omix X700 256 GB 8 GB Ram (Omix Türkiye Garantili),13,4.2,Var,"['6,43', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+254,Apple ,5.0,Apple iPhone 15 Pro 1 Tb,51,5.0,Var,"['6,1', 'inç']",Lightning,1 TB,8 GB RAM,3650 mAh,24,20 MP ve Üzeri,8.0 MP
+255,Hiking ,3.8,Hiking X9 Gümüş Tuşlu Cep Telefonu Çelik Kasa Distribitör Garantili,29,3.8,Yok,"['1,36', 'inç']",Micro USB,Yok,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+256,TCL ,4.4,TCL 30 SE 128 GB 4 GB Ram (TCL Türkiye Garantili),96,4.4,Var,"['6,52', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+257,Casper ,4.6,Casper VIA M35 128 GB 4 GB Ram (Casper Türkiye Garantili),17,4.6,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+258,Apple ,4.9,Apple iPhone 14 Pro Max 128 GB,1679,4.9,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,4323 mAh,24,20 MP ve Üzeri,8.0 MP
+259,POCO ,4.7,POCO Poco X4 Pro 5G 256 GB (Poco Türkiye Garantili),444,4.7,Var,"['6,5', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+260,vivo ,5.0,vivo V30 5G 256 GB 12 GB Ram (Vivo Türkiye Garantili),11,5.0,Var,"['6,78', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+261,Samsung ,4.6,Samsung Galaxy M14 128 GB 4 GB Ram (Samsung Türkiye Garantili),2108,4.6,Yok,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+262,WT ,3.5,WT Kameralı Tuşlu Cep Telefonu,6,3.5,Yok,"['1,36', 'inç']",,1 GB,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+263,Ovion ,,Ovion V20 Pro 8gb 256GB Siyah (Ovion Türkiye Garantili),,,Yok,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+264,Huawei ,4.5,Huawei Nova 10 Se 128 GB 8 GB Ram (Huawei Türkiye Garantili),107,4.5,Var,"['6,74', 'inç']",,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+265,Huawei ,4.9,Huawei Nova 12S 256 GB 8 GB Ram - Siyah (Huawei Türkiye Garantili),17,4.9,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+266,Xiaomi ,4.7,Xiaomi Redmi Note 11 Pro Plus 5G 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),401,4.7,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+267,Xiaomi ,4.7,Xiaomi Redmi Note 10S 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),4475,4.7,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+268,Alcatel ,4.0,Alcatel TCL Alcatel- 2057d Beyaz Tuşlu Telefon,4,4.0,Yok,"['2,4', 'inç']",Lightning,4 GB,8 GB RAM,970 mAh,2,20 MP ve Üzeri,8.0 MP
+269,HONOR ,4.3,HONOR X9b 5g 12/256 GB (KVK Garantili),6,4.3,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5800 mAh,24,20 MP ve Üzeri,8.0 MP
+270,General Mobile ,4.5,General Mobile General Mobile GM 23 128 GB 4 GB Ram (General Mobile Garantili),111,4.5,Var,"['6,52', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+271,Mipo ,,Mipo M17 128 GB Gri,,,Yok,"['6,51', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+272,POCO ,5.0,POCO Poco F6 8gb 256GB Yeşil (Poco Türkiye Garantili),2,5.0,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+273,Samsung ,4.4,Samsung Galaxy S20 FE 128 GB (Samsung Türkiye Garantili),743,4.4,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+274,Oukitel ,4.2,Oukitel C33 256 GB 8 GB Ram (Oukitel Türkiye Garantili),18,4.2,Var,"['6,8', 'inç']",,256 GB,8 GB RAM,5150 mAh,24,20 MP ve Üzeri,8.0 MP
+275,Samsung ,4.6,Samsung Galaxy A12 128 GB (Samsung Türkiye Garantili),542,4.6,Yok,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+276,Samsung ,4.9,Samsung Galaxy Z Fold5 512 GB 12 GB Ram (Samsung Türkiye Garantili),107,4.9,Var,"['7,6', 'inç']",Type-C,512 GB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+277,Samsung ,2.3,Samsung 1205 Y (7390) Tuşlu Telefon,43,2.3,Yok,"['3,1', 'inç']",,1 GB,8 GB RAM,1010 mAh,2,20 MP ve Üzeri,8.0 MP
+278,Alcatel ,3.5,"Alcatel One Touch Plus Metal Kasa Kameralı Tuşlu Cep Telefonu,Micro USB,",9,3.5,Yok,"['2,4', 'inç']",Micro USB,Yok,8 GB RAM,800 mAh,24,20 MP ve Üzeri,8.0 MP
+279,vivo ,4.6,vivo Vivo Y17S 128 GB 6 GB Ram (Vivo Türkiye Garantili),11,4.6,Var,"['6,56', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+280,Huawei ,4.6,Huawei Nova 12 SE 256 GB 8 GB Ram - Yeşil (Huawei Türkiye Garantili),6,4.6,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+281,Samsung ,4.8,Samsung Galaxy S23 Plus 256 GB 8 GB Ram (Samsung Türkiye Garantili),246,4.8,Var,"['6,6', 'inç']",Type-C,256 GB,8 GB RAM,4700 mAh,24,20 MP ve Üzeri,8.0 MP
+282,Xiaomi ,4.4,Xiaomi Redmi Note 9 128 GB,36,4.4,Var,"['6,53', 'inç']",,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+283,Xiaomi ,4.1,Xiaomi Redmi 9A 64 GB 4 GB Ram (Xiaomi Türkiye Garantili),10,4.1,Var,"['6,53', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+284,Samsung ,5.0,Samsung Galaxy Z Flip6 256 GB 12 GB Ram (Samsung Türkiye Garantili),5,5.0,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+285,Samsung ,3.1,Samsung SAMSUNG5233 Tuşlu Telefon,20,3.1,Yok,"['4', 'inç']",,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+286,POCO ,4.0,POCO M3 128 GB (POCO Türkiye Garantili),114,4.0,Yok,"['6,53', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+287,Realme ,4.5,Realme C21Y 64 GB 4 GB Ram (Realme Türkiye Garantili),266,4.5,Yok,"['6,5', 'inç']",Micro USB,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+288,Xiaomi ,4.6,Xiaomi Redmi Note 10 Pro 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),2594,4.6,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5020 mAh,24,20 MP ve Üzeri,8.0 MP
+289,Samsung ,4.6,Samsung Galaxy Z Fold3 5G 256 GB (Samsung Türkiye Garantili),130,4.6,Yok,"['7,6', 'inç']",Type-C,256 GB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+290,Huawei ,4.2,Huawei Nova 9 128 GB 8 GB Ram (Huawei Türkiye Garantili),150,4.2,Var,"['6,57', 'inç']",Type-C,128 GB,8 GB RAM,4300 mAh,24,20 MP ve Üzeri,8.0 MP
+291,Apple ,4.8,Apple iPhone 13 512 GB,232,4.8,Var,"['6,1', 'inç']",,512 GB,8 GB RAM,3095 mAh,24,20 MP ve Üzeri,8.0 MP
+292,General Mobile ,4.6,General Mobile General Mobile Gm 22 Pro 128 GB 8 GB Ram (General Mobile Garantili),466,4.6,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+293,Samsung ,4.8,Samsung Galaxy Z Fold6 512 GB 12 GB Ram (Samsung Türkiye Garantili),5,4.8,Var,"['7,6', 'inç']",Type-C,512 GB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+294,Infinix ,4.9,Infinix Hot 40i 8 GB Ram + 8 GB Sanal Ram 256 GB Cep Telefonu (Infinix XW2 Akıllı Saat Hediyeli),7,4.9,Var,"['6,56', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+295,Tecno ,4.4,Tecno TECNO POVA Neo 128 GB 6+5 GB Ram (TECNO Türkiye Garantili),257,4.4,Var,"['6,8', 'inç']",,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+296,Xiaomi ,4.5,Xiaomi Mi 11T Pro 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),464,4.5,Yok,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+297,Realme ,4.8,Realme 9 Pro 128 GB 6 GB Ram (Realme Türkiye Garantili),50,4.8,Yok,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+298,Samsung ,4.7,Samsung Galaxy A23 128 GB 4 GB Ram (Samsung Türkiye Garantili),2050,4.7,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+299,Samsung ,4.2,Samsung Galaxy Xcover Pro 64 GB (Samsung Türkiye Garantili),25,4.2,Yok,"['6,3', 'inç']",Type-C,64 GB,8 GB RAM,4050 mAh,24,20 MP ve Üzeri,8.0 MP
+300,Omix ,4.2,Omix X600 64 GB 4 GB Ram + 4 GB Vram (Omix Türkiye Garantili),27,4.2,Yok,"['6,44', 'inç']",,64 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+301,Trident ,4.8,Trident A55 128 GB 6 GB Ram (Hiking Türkiye Garantili),9,4.8,Var,"['6,52', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+302,Oukitel ,3.8,Oukitel C32 128 GB 8 GB Ram (Oukitel Türkiye Garantili),13,3.8,Var,"['6,51', 'inç']",,128 GB,8 GB RAM,5150 mAh,24,20 MP ve Üzeri,8.0 MP
+303,POCO ,4.6,POCO Poco X5 5G 256 GB 8 GB Ram (Poco Türkiye Garantili),185,4.6,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+304,Tecno ,4.6,Tecno Camon 19 Pro 128 GB 8 GB Ram (Tecno Türkiye Garantili),59,4.6,Var,"['6,82', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+305,Reeder ,3.9,Reeder P13 Blue Max Lite 2022 32 GB (Reeder Türkiye Garantili),1317,3.9,Var,"['6,5', 'inç']",Micro USB,32 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+306,Huawei ,4.6,Huawei Nova 11 256 GB 8 GB Ram (Huawei Türkiye Garantili),45,4.6,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+307,Samsung ,4.7,Samsung Galaxy A72 128 GB (Samsung Türkiye Garantili),2080,4.7,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+308,Samsung ,3.0,Samsung E1190,124,3.0,Yok,"['3', 'inç']",,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+309,Samsung ,4.6,Samsung Galaxy Z Flip4 128 GB 8 GB Ram (Samsung Türkiye Garantili),244,4.6,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,3700 mAh,24,20 MP ve Üzeri,8.0 MP
+310,Huawei ,4.5,Huawei Nova Y70 128 GB 4 GB Ram (Huawei Türkiye Garantili),886,4.5,Var,"['6,75', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+311,Huawei ,4.4,Huawei P Smart S 128 GB (Huawei Türkiye Garantili),373,4.4,Yok,"['6,3', 'inç']",,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+312,Xiaomi ,4.4,Xiaomi Redmi Note 10 5G 128 GB 4 GB Ram (Xiaomi Türkiye Garantili),504,4.4,Yok,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+313,General Mobile ,4.9,General Mobile General Mobile GM Phoneix 5G Dual 256 GB 8 GB Ram (General Mobile Garantili),26,4.9,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,4700 mAh,24,20 MP ve Üzeri,8.0 MP
+314,Xiaomi ,4.6,Xiaomi Mi 11 Lite 128 GB (Xiaomi Türkiye Garantili),1856,4.6,Yok,"['6,55', 'inç']",,128 GB,8 GB RAM,4250 mAh,24,20 MP ve Üzeri,8.0 MP
+315,Samsung ,4.6,Samsung Galaxy A32 128 GB (Samsung Türkiye Garantili),5629,4.6,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+316,Tecno ,,Tecno Spark 20 128 GB 8 GB Ram (Tecno Türkiye Garantili),,,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+317,Xiaomi ,4.5,Xiaomi Redmi Note 11 128 GB 4 GB Ram (Xiaomi Türkiye Garantili),1885,4.5,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+318,Omix ,3.5,Omix X400 128 GB 6 GB Ram + 6 GB Vram (Omix Türkiye Garantili),22,3.5,Var,"['6,53', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+319,Xiaomi ,4.6,Xiaomi 13 Lite 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),175,4.6,Var,"['6,55', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+320,Red Magic ,5.0,Red Magic Red Magic 9 Pro 512 GB 16 GB Ram Gümüş (Red Magic Türkiye Garantili),4,5.0,Var,"['6,8', 'inç']",,512 GB,8 GB RAM,6000 mAh,2,20 MP ve Üzeri,8.0 MP
+321,Xiaomi ,4.5,Xiaomi Redmi 10C 64 GB 4 GB Ram (Xiaomi Türkiye Garantili),325,4.5,Var,"['6,71', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+322,Reeder ,3.8,Reeder P13 Blue 32 GB 2022 (Reeder Türkiye Garantili),613,3.8,Yok,"['6,22', 'inç']",,32 GB,8 GB RAM,3800 mAh,24,20 MP ve Üzeri,8.0 MP
+323,vivo ,4.7,vivo Vivo Y22S 128 GB 6 GB Ram (Vivo Türkiye Garantili),297,4.7,Var,"['6,55', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+324,TCL ,4.0,TCL Tcl 303,6,4.0,Yok,"['5,5', 'inç']",Micro USB,32 GB,8 GB RAM,3000 mAh,24,20 MP ve Üzeri,8.0 MP
+325,Samsung ,4.7,Samsung Galaxy A73 5G 128 GB (Samsung Türkiye Garantili),1821,4.7,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+326,Apple ,4.7,Apple iPhone 14 512 GB,29,4.7,Var,"['6,1', 'inç']",Lightning,512 GB,8 GB RAM,3279 mAh,24,20 MP ve Üzeri,8.0 MP
+327,Panasonic ,5.0,Panasonic KX-TU400 Exb 2.4 Inç Tuşlu Cep Telefonu (2 Yıl Türkiye Distribütör Garantili),1,5.0,Yok,"['2,4', 'inç']",Micro USB,64 MB,8 GB RAM,900 mAh,12,20 MP ve Üzeri,8.0 MP
+328,Samsung ,4.7,Samsung Galaxy A13 128 GB (Samsung Türkiye Garantili),1124,4.7,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+329,Samsung ,4.6,Samsung Galaxy M13 128 GB 4 GB Ram (Samsung Türkiye Garantili),1347,4.6,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+330,Samsung ,4.8,Samsung Galaxy Z Fold5 256 GB 12 GB Ram (Samsung Türkiye Garantili),92,4.8,Var,"['7,6', 'inç']",Type-C,256 GB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+331,Samsung ,4.7,Samsung Galaxy S21 FE 5G 256 GB (Samsung Türkiye Garantili),1702,4.7,Var,"['6,4', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+332,Realme ,4.5,Realme C11 2021 32 GB (Realme Türkiye Garantili),730,4.5,Var,"['6,5', 'inç']",Micro USB,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+333,Xiaomi ,4.3,Xiaomi Redmi 9c 32 GB (Xiaomi Türkiye Garantili),2148,4.3,Var,"['6,53', 'inç']",Micro USB,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+334,Xiaomi ,4.2,Xiaomi Redmi 9A 32 GB (Xiaomi Türkiye Garantili),293,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+335,Huawei ,4.6,Huawei Y9 Prime 2019 128 GB (Huawei Türkiye Garantili),357,4.6,Yok,"['6,59', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+336,POCO ,4.7,POCO X3 NFC 128 GB (POCO Türkiye Garantili),2351,4.7,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5160 mAh,24,20 MP ve Üzeri,8.0 MP
+337,Digiphone ,5.0,Digiphone S700 Tuşlu Kapaklı Cep Telefonu Siyah,1,5.0,Yok,"['2,8', 'inç']",Type-C,4 MB,8 GB RAM,1480 mAh,24,20 MP ve Üzeri,8.0 MP
+338,Samsung ,3.0,Samsung 8552 Tuşlu Telefon lacivert,27,3.0,Yok,"['4,2', 'inç']",,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+339,vivo ,5.0,vivo V30 Lite 256 GB 8 GB Ram (vivo Türkiye Garantili),1,5.0,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+340,Huawei ,4.7,Huawei Pura 70 Pro 12 512GB Siyah(Huawei Türkiye garantili),6,4.7,Var,"['6,6', 'inç']",Type-C,512 GB,8 GB RAM,5050 mAh,24,20 MP ve Üzeri,8.0 MP
+341,Samsung ,4.7,Samsung Galaxy A23 128 GB 6 GB Ram (Samsung Türkiye Garantili),836,4.7,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+342,Oppo ,4.6,Oppo A55 64 GB 4 GB Ram (Oppo Türkiye Garantili),1723,4.6,Var,"['6,51', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+343,Realme ,4.7,Realme C25S 128 GB 4 GB Ram (Realme Türkiye Garantili),725,4.7,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+344,vivo ,4.6,vivo V23 5G 256 GB 12 GB Ram (vivo Türkiye Garantili),12,4.6,Var,"['6,44', 'inç']",Type-C,256 GB,8 GB RAM,4200 mAh,24,20 MP ve Üzeri,8.0 MP
+345,Realme ,4.7,Realme realme 12PRO 8GB 256GB (realme Türkiye Garantili),3,4.7,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+346,General Mobile ,4.6,General Mobile General Mobile Gm 22 Plus 128 GB (General Mobile Garantili),395,4.6,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+347,Infinix ,3.8,Infinix Hot 30İ 4 Gb Ram + 4 Gb Sanal Ram 128Gb (Infinix Türkiye Garantili),6,3.8,Var,"['6,56', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+348,Casper ,4.2,Casper Via E4 Duos 32 GB,310,4.2,Var,"['6,09', 'inç']",Type-C,32 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+349,Hiking ,5.0,Hiking A40 128 GB 6 GB Ram (Hiking Türkiye Garantili),4,5.0,Var,"['6,52', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+350,Nokia ,2.1,Nokia 215 Dual Sim (İthalatçı Garantili),14,2.1,,"['2,4', 'inç']",Micro USB,,8 GB RAM,1100 mAh,24,20 MP ve Üzeri,8.0 MP
+351,Oppo ,4.6,Oppo A74 128 GB (Oppo Türkiye Garantili),5454,4.6,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+352,POCO ,,POCO Poco X6 5G 12/512 GB,,,Var,"['6,67', 'inç']",Type-C,512 GB,8 GB RAM,5100 mAh,2,20 MP ve Üzeri,8.0 MP
+353,Xiaomi ,1.0,Xiaomi Mi 12T Pro 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),1,1.0,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+354,Infinix ,,Infinix İnfinix Smart 8 Pro 128 GB  4 GB Ram Cep Telefonu (İnfinix Türkiye Garantili),,,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+355,Xiaomi ,4.4,Xiaomi Redmi 9T 128 GB (Xiaomi Türkiye Garantili),2516,4.4,Var,"['6,53', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+356,Apple ,4.9,Apple iPhone 13 Pro Max 256 GB,993,4.9,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,4325 mAh,24,20 MP ve Üzeri,8.0 MP
+357,Tecno ,4.6,Tecno Spark 20 256 GB 8 GB Ram (Tecno Türkiye Garantili),19,4.6,Var,"['6,6', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+358,Realme ,4.9,Realme 11 Pro Plus 512 GB 12 GB Ram (Realme Türkiye Garantili),22,4.9,Var,"['6,7', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+359,Xiaomi ,4.8,Xiaomi Redmi 12C 64 GB 4 GB Ram (Xiaomi Türkiye Garantili),36,4.8,Var,"['6,71', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+360,Xiaomi ,4.0,Xiaomi Redmi 9 Duos 64 GB (Xiaomi Türkiye Garantili),20,4.0,Var,"['6,53', 'inç']",,64 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+361,Samsung ,2.9,Samsung B310 Dual Sim,45,2.9,Yok,"['2,0', 'inç']",Micro USB,Yok,8 GB RAM,1022 mAh,24,20 MP ve Üzeri,8.0 MP
+362,Oppo ,4.6,Oppo A55 128 GB 4 GB Ram (Oppo Türkiye Garantili),1310,4.6,Var,"['6,51', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+363,Huawei ,4.3,Huawei Nova 9 SE 128 GB (24 Garantili),575,4.3,Var,"['6,78', 'inç']",,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+364,vivo ,4.4,vivo Vivo V21e 128 GB 8 GB Ram (Vivo Türkiye Garantili),8,4.4,Var,"['6,44', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+365,Omix ,4.1,Omix X400 128 GB 4 GB Ram (Omix Türkiye Garantili),97,4.1,Var,"['6,53', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+366,Nokia ,3.1,Nokia Nokıa X1-01,50,3.1,Yok,"['4,6', 'inç']",,1 GB,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+367,Casper ,4.5,Casper Via F30 4/128GB Platin Gri (Casper Tr Garantili),10,4.5,Var,"['6,0', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+368,Samsung ,4.3,Samsung Galaxy A02 32 GB (Samsung Türkiye Garantili),950,4.3,Yok,"['6,5', 'inç']",Micro USB,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+369,Realme ,5.0,Realme Realme Note 50 128 GB 4 GB Ram (Realme Türkiye Garantili),2,5.0,Var,"['6,74', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+370,Hiking ,1.3,Hiking Hikıng A28 128 GB 8 GB Ram (Hiking Türkiye Garantili),3,1.3,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+371,Hiking ,5.0,Hiking A42 128 GB 6 GB Ram (Hiking Türkiye Garantili),3,5.0,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+372,Hiking ,,Hiking A48 6/128GB Akıllı Telefon (Türkiye Üretici Garantili),,,Yok,"['6,52']",Type-C,128 GB,8 GB RAM,4325 mAh,2,20 MP ve Üzeri,8.0 MP
+373,Hiking ,,Hiking Hikın A29 128 GB 4 GB Ram (Hiking Türkiye Garantili),,,Var,"['6,52', 'inç']",,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+374,Tecno ,5.0,Tecno Camon 18 128 GB 6+5 GB Ram (Tecno Türkiye Garantili),1,5.0,Yok,"['6,8', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+375,POCO ,3.8,POCO M3 64 GB (POCO Türkiye Garantili),36,3.8,Yok,"['6,53', 'inç']",Type-C,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+376,Tecno ,4.3,Tecno TECNO SPARK Go 2023 64 GB 3 GB Ram (TECNO Türkiye Garantili),44,4.3,Var,"['6,56', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+377,POCO ,4.7,POCO X3 NFC 64 GB (POCO Türkiye Garantili),698,4.7,Var,"['6,67', 'inç']",Type-C,64 GB,8 GB RAM,5160 mAh,24,20 MP ve Üzeri,8.0 MP
+378,General Mobile ,,General Mobile General Mobile Era 50 12GB 256 GB(6GB + 6GB Genişletilmiş RAM),,,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+379,Omix ,4.6,Omix X5 128 GB 6 GB Mor (Omix Türkiye Garantili),5,4.6,Var,"['6,56', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+380,Tecno ,4.4,Tecno TECNO POVA Neo 64 GB 4 GB Ram (TECNO Türkiye Garantili),33,4.4,Var,"['6,8', 'inç']",,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+381,vivo ,4.5,vivo Y15S 32 GB (vivo Türkiye Garantili),161,4.5,Var,"['6,51', 'inç']",Type-C,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+382,General Mobile ,4.6,General Mobile General Mobile Gm 22S 64 GB 4 GB Ram (General Mobile Garantili),98,4.6,Var,"['6,52', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+383,Samsung ,4.7,Samsung Galaxy M32 128 GB (Samsung Türkiye Garantili),4508,4.7,Yok,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+384,Xiaomi ,4.4,Xiaomi Redmi 9T 64 GB (Xiaomi Türkiye Garantili),1616,4.4,Var,"['6,53', 'inç']",Type-C,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+385,Apple ,4.8,Apple iPhone 13 Pro Max 128 GB,1222,4.8,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,4325 mAh,24,20 MP ve Üzeri,8.0 MP
+386,Tecno ,4.2,Tecno TECNO SPARK 8C 128 GB 4 GB Ram (TECNO Türkiye Garantili),41,4.2,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+387,Xiaomi ,4.6,Xiaomi Redmi 9 32 GB (Xiaomi Türkiye Garantili),406,4.6,Var,"['6,53', 'inç']",Type-C,32 GB,8 GB RAM,5020 mAh,24,20 MP ve Üzeri,8.0 MP
+388,Apple ,4.9,Apple iPhone 15 512 GB,28,4.9,Var,"['6,1', 'inç']",Lightning,512 GB,8 GB RAM,3877 mAh,24,20 MP ve Üzeri,8.0 MP
+389,Infinix ,5.0,Infinix İnfinix Hot 40 Pro 256 GB 8 GB Ram Cep Telefonu (İnfinix Türkiye Garantili),1,5.0,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+390,Samsung ,4.6,Samsung Galaxy M13 64 GB 4 GB Ram (Samsung Türkiye Garantili),1298,4.6,Var,"['6,6', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+391,Samsung ,4.5,Samsung Galaxy A04E 128 GB 4 GB Ram (Samsung Türkiye Garantili),1781,4.5,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+392,Bade Shopping ,5.0,Bade Shopping Mini Tuşlu Parmak Telefonu,1,5.0,Yok,"['1,36', 'inç']",Micro USB,Yok,8 GB RAM,1000 mAh,1,20 MP ve Üzeri,8.0 MP
+393,Samsung ,4.6,Samsung Galaxy A12 64 GB (Samsung Türkiye Garantili),1048,4.6,Yok,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+394,Casper ,4.3,Casper Via E30 64 GB 4 GB Ram (Casper Türkiye Garantili),348,4.3,Var,"['6,52', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+395,Tecno ,4.6,Tecno TECNO Pova 5 Pro 5G 8/256 GB (TECNO Türkiye Garantili),31,4.6,Var,"['6,78', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+396,Oppo ,4.8,Oppo Reno 6 128 GB (Oppo Türkiye Garantili),510,4.8,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,4310 mAh,24,20 MP ve Üzeri,8.0 MP
+397,Omix ,,Omix X5 128 GB 4 GB Rose (Omix Türkiye Garantili),,,Yok,"['6,01', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+398,Casper ,4.3,Casper Via E30 Plus 128 GB 4 GB Ram (Casper Türkiye Garantili),82,4.3,Var,"['6,52', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+399,Xiaomi ,4.1,Xiaomi Redmi Note 11S 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),251,4.1,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+400,Xiaomi ,4.9,Xiaomi 13 256 GB 12 GB Ram (Xiaomi Türkiye Garantili),79,4.9,Var,"['6,36', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+401,General Mobile ,4.5,General Mobile General Mobile Gm 22 32 GB (General Mobile Garantili),397,4.5,Var,"['6,52', 'inç']",,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+402,Samsung ,5.0,Samsung Galaxy Z Fold6 1 Tb 12 GB Ram (Samsung Türkiye Garantili),1,5.0,Var,"['7,6', 'inç']",Type-C,1 TB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+403,Reeder ,3.2,Reeder P13 Blue Max Pro 2021 128 GB 6 GB Ram (Reeder Türkiye Garantili),4066,3.2,Yok,"['6,51', 'inç']",Type-C,128 GB,8 GB RAM,5380 mAh,2,20 MP ve Üzeri,8.0 MP
+404,Samsung ,4.6,Samsung Galaxy M12 64 GB (Samsung Türkiye Garantili),3976,4.6,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+405,Samsung ,4.7,Samsung Galaxy M22 128 GB (Samsung Türkiye Garantili),5189,4.7,Yok,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+406,Samsung ,4.7,Samsung Galaxy M31 2020 128 GB (Samsung Türkiye Garantili),13226,4.7,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+407,Infinix ,4.4,Infinix İnfinix Hot 20i 64 GB 4 GB Ram (İnfinix Türkiye Garantili),23,4.4,Var,"['6,6', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+408,Red Magic ,,Red Magic Red Magic 9 Pro 512 GB 16 GB Ram Saydam Siyah (REDMAGIC Türkiye Garantili),,,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,6000 mAh,2,20 MP ve Üzeri,8.0 MP
+409,Casper ,4.4,Casper VIA M30 Plus 128 GB 4 GB Ram (Casper Türkiye Garantili),10,4.4,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+410,Infinix ,4.0,Infinix İnfinix Hot 20i 128 GB 6 Ram (İnfinix Türkiye Garantili),2,4.0,Var,"['6,6', 'inç']",Micro USB,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+411,Xiaomi ,4.6,Xiaomi Redmi Note 10S 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),8000,4.6,Var,"['6,43', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+412,Omix ,4.1,Omix X600 128 GB 4 GB Ram (Omix Türkiye Garantili),20,4.1,Var,"['6,78', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+413,Realme ,4.6,Realme 9i 128 GB 4 GB Ram (Realme Türkiye Garantili),19,4.6,Yok,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+414,Samsung ,4.6,Samsung Galaxy Note 20 Ultra 256 GB (Samsung Türkiye Garantili),1480,4.6,Var,"['6,9', 'inç']",Type-C,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+415,Samsung ,4.7,Samsung Galaxy Z Flip5 512 GB 8 GB Ram (Samsung Türkiye Garantili),118,4.7,Var,"['6,7', 'inç']",Type-C,512 GB,8 GB RAM,3700 mAh,24,20 MP ve Üzeri,8.0 MP
+416,Reeder ,,Reeder S23 Pro Max,,,Var,"['6,51', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+417,Tecno ,4.7,Tecno Spark 10 Pro 128 GB 8 GB Ram (Tecno Türkiye Garantili),47,4.7,Var,"['6,8', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+418,Tecno ,4.2,Tecno Spark 20C 128 GB 8 GB Ram (Tecno Türkiye Garantili),10,4.2,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+419,Oukitel ,5.0,Oukitel C35 256 GB 12 GB Ram (Oukitel Türkiye Garantili),1,5.0,Var,"['6,56', 'inç']",,256 GB,8 GB RAM,5150 mAh,24,20 MP ve Üzeri,8.0 MP
+420,Xiaomi ,4.6,Xiaomi Redmi 10A 3gb Ram 64GB Gri (Xiaomi Türkiye Garantili),15,4.6,Var,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+421,Nokia ,,Nokia Nokıa 2600C ve 3500C,,,Yok,"['1,8', 'inç']",,1 GB,8 GB RAM,1000 mAh,,20 MP ve Üzeri,8.0 MP
+422,Infinix ,4.2,Infinix Note 12 128 GB + 8 GB Ram + 5 GB Sanal Ram (Infinix Türkiye Garantili),32,4.2,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+423,Huawei ,4.5,Huawei P50 Pro 256 GB (Huawei Türkiye Garantili),163,4.5,Var,"['6,6', 'inç']",Type-C,256 GB,8 GB RAM,4360 mAh,24,20 MP ve Üzeri,8.0 MP
+424,Casper ,4.1,Casper Via F30 Plus 128 GB 8 GB Ram (Casper Türkiye Garantili),82,4.1,Var,"['6,52', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+425,Samsung ,4.6,Samsung Galaxy M12 128 GB (Samsung Türkiye Garantili),6886,4.6,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+426,POCO ,4.8,POCO Poco F5 256 GB 12 GB Ram (Poco Türkiye Garantili),914,4.8,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+427,Samsung ,4.5,Samsung Galaxy A33 5G 128 GB (Samsung Türkiye Garantili),1441,4.5,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+428,Hiking ,,"Hiking A40 6gb Ram 128GB Hafıza 6,52"" Siyah Cep Telefonu",,,Yok,"['6,52', 'inç']",,Yok,8 GB RAM,1400 mAh,2,20 MP ve Üzeri,8.0 MP
+429,Xiaomi ,3.6,Xiaomi Redmi Note 11S 8 / 128 GB Ram Graphite Gray,17,3.6,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+430,Omix ,4.2,Omix X5 128 GB 4 GB Mavi (Omix Türkiye Garantili),34,4.2,Var,"['6,56', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+431,Huawei ,4.3,Huawei P Smart 2021 128 GB (Huawei Türkiye Garantili),552,4.3,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+432,Omix ,4.2,Omix X5 128 GB 4 GB Mavi (Omix Türkiye Garantili),34,4.2,Var,"['6,56', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+433,Apple ,4.8,Apple iPhone 14 Pro Max 256 GB,1543,4.8,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,4323 mAh,24,20 MP ve Üzeri,8.0 MP
+434,Samsung ,4.7,Samsung Galaxy Z Fold4 256 GB 12 GB Ram (Samsung Türkiye Garantili),95,4.7,Var,"['7,56', 'inç']",Type-C,256 GB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+435,Samsung ,4.8,Samsung Galaxy S20 FE 256 GB Snapdragon (Samsung Türkiye Garantili),6299,4.8,Var,"['6,5', 'inç']",Type-C,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+436,Huawei ,5.0,Huawei Pura 70 Ultra 16 512GB Yeşil(Huawei Türkiye garantili),5,5.0,Var,"['6,8', 'inç']",Type-C,512 GB,8 GB RAM,5200 mAh,24,20 MP ve Üzeri,8.0 MP
+437,FAYROX ,,FAYROX SM-B310E Tuşlu Cep Telefonu - Kamerasız Çift Hatlı Yüksek Ses Düzeyi Güçlü Bataryalı Radyo Özellikli Beyaz Tuşlu Telefon,,,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+438,Realme ,,Realme 12 Lite,,,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+439,General Mobile ,4.5,General Mobile General Mobile GM 20 Dual Sim 64 GB (General Mobile Garantili),78,4.5,Var,"['6,09', 'inç']",Type-C,64 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+440,Just Cheap Store ,,Just Cheap Store Just Cheap Store Astronot Telefon Tutucu Model 3,,,Var,"['1,36', 'inç']",,1 GB,8 GB RAM,1000 mAh,,20 MP ve Üzeri,8.0 MP
+441,vivo ,4.6,vivo Y21S 128 GB 4 GB Ram (vivo Türkiye Garantili),200,4.6,Var,"['6,51', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+442,Xiaomi ,4.7,Xiaomi Mi 12T 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),547,4.7,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+443,Oppo ,4.6,Oppo A54 128 GB (Oppo Türkiye Garantili),3129,4.6,Var,"['6,51', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+444,Tecno ,4.6,Tecno Pova Neo 2 128 GB 6 GB Ram (Tecno Türkiye Garantili),293,4.6,Yok,"['6,0', 'inç']",,128 GB,8 GB RAM,7000 mAh,24,20 MP ve Üzeri,8.0 MP
+445,Hiking ,,Hiking A40 4gb Ram 128 Rom Cep Telefonu,,,Yok,"['6,51', 'inç']",Type-C,128 GB,8 GB RAM,1299 mAh,2,20 MP ve Üzeri,8.0 MP
+446,Itel ,5.0,Itel S23 128 GB 8+8 GB Ram Beyaz (Itel Tükiye Garantili),1,5.0,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+447,Xiaomi ,4.5,Xiaomi Redmi 10 2022 64 GB (Xiaomi Türkiye Garantili),1493,4.5,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+448,Digiphone ,,Digiphone S500 Siyah Tuşlu Cep Telefonu,,,Yok,"['1,5', 'inç']",Micro USB,2 GB,8 GB RAM,1000 mAh,,20 MP ve Üzeri,8.0 MP
+449,Reeder ,4.6,Reeder S23 Pro Max 512 GB Siyah,5,4.6,Yok,"['6,51', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+450,Panasonic ,,Panasonic KX-TU446 Exb 2.4 Inç Tuşlu Cep Telefonu (2 Yıl Türkiye Distribütör Garantili),,,Yok,"['2,4', 'inç']",Micro USB,64 MB,8 GB RAM,1000 mAh,12,20 MP ve Üzeri,8.0 MP
+451,Apple ,4.7,Apple Yeni iPhone SE 256 GB (3.Nesil),50,4.7,Yok,"['4,7', 'inç']",,256 GB,8 GB RAM,1821 mAh,24,20 MP ve Üzeri,8.0 MP
+452,Wiko ,3.8,Wiko T60 256 GB 8 GB Ram (Wiko Türkiye Garantili),155,3.8,Yok,"['6,58', 'inç']",Type-C,256 GB,8 GB RAM,5200 mAh,24,20 MP ve Üzeri,8.0 MP
+453,vivo ,,vivo Y28 256 GB 8 GB Ram,,,Yok,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,6000 mAh,2,20 MP ve Üzeri,8.0 MP
+454,MEGA ,2.8,MEGA 1208 Tuşlu Orjinal Nokia,25,2.8,Yok,"['1,36', 'inç']",,Yok,8 GB RAM,1000 mAh,12,20 MP ve Üzeri,8.0 MP
+455,Reeder ,3.4,Reeder S19 Max Pro S Edge,5,3.4,Var,"['6,51', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+456,Apple ,4.8,Apple Yeni iPhone SE 128 GB (3.Nesil),437,4.8,Yok,"['4,7', 'inç']",,128 GB,8 GB RAM,1821 mAh,24,20 MP ve Üzeri,8.0 MP
+457,Tecno ,4.2,Tecno Spark 10C 128 GB 8 GB Ram (Tecno Türkiye Garantili),12,4.2,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+458,Tecno ,4.6,Tecno Spark Go 2024 128 GB 4 GB Ram (Tecno Türkiye Garantili),5,4.6,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+459,Apple ,4.7,Apple iPhone 14 Pro 1 TB,84,4.7,Var,"['6,1', 'inç']",Lightning,1 TB,8 GB RAM,3200 mAh,24,20 MP ve Üzeri,8.0 MP
+460,Xiaomi ,4.8,Xiaomi Mi 10T Lite 128 GB,59,4.8,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,4820 mAh,24,20 MP ve Üzeri,8.0 MP
+461,Omix ,4.2,Omix X400 64 GB (Omix Türkiye Garantili),78,4.2,Var,"['6,53', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+462,Huawei ,4.8,Huawei Nova 10 128 GB 8 GB Ram (Huawei Türkiye Garantili),62,4.8,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+463,Tecno ,4.2,Tecno Camon 19 128 GB 6 GB Ram (Tecno Türkiye Garantili),13,4.2,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+464,Xiaomi ,4.7,Xiaomi 14  512GB 12GB Ram (Xiaomi Türkiye Garantili),114,4.7,Var,"['6,36', 'inç']",Type-C,512 GB,8 GB RAM,4610 mAh,24,20 MP ve Üzeri,8.0 MP
+465,Xiaomi ,4.7,Xiaomi 12 Lite 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),494,4.7,Yok,"['6,55', 'inç']",Type-C,256 GB,8 GB RAM,4300 mAh,24,20 MP ve Üzeri,8.0 MP
+466,Samsung ,3.0,Samsung GT2121 Sim Kamerasız Cep Telefonu,4,3.0,Yok,"['2,4', 'inç']",,Yok,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+467,Apple ,4.9,Apple iPhone 14 Pro Max 1 TB,65,4.9,Var,"['6,7', 'inç']",Lightning,1 TB,8 GB RAM,4323 mAh,24,20 MP ve Üzeri,8.0 MP
+468,TCL ,4.3,TCL L7 32 GB (TCL Türkiye Garantili),2367,4.3,Var,"['5,5', 'inç']",,32 GB,8 GB RAM,3000 mAh,24,20 MP ve Üzeri,8.0 MP
+469,Omix ,5.0,Omix X3 64 GB 4 GB Mor (Omix Türkiye Garantili),3,5.0,Yok,"['6,01', 'inç']",,64 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+470,Apple ,4.9,Apple iPhone 12 Pro 128 GB,970,4.9,Var,"['6,1', 'inç']",Lightning,128 GB,8 GB RAM,2815 mAh,24,20 MP ve Üzeri,8.0 MP
+471,Hiking ,,Hiking Hikıng A28 Mavi (8gb Ram / 128GB Rom),,,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+472,Omix ,4.1,Omix X5 128 GB 6 GB Gri (Omix Türkiye Garantili),7,4.1,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+473,General Mobile ,4.3,General Mobile General Mobile Gm 21 32 GB  (General Mobile Garantili),977,4.3,Var,"['6,52', 'inç']",,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+474,Mipo ,,"Mipo M33 6.5"" Ekran 6gb Ram 128GB Dahili Hafıza 48MP Arka 8mp Ön Kamera Akıllı Ceptelefonu",,,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+475,Xiaomi ,4.7,Xiaomi Redmi Note 10 Pro 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),3551,4.7,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,5020 mAh,24,20 MP ve Üzeri,8.0 MP
+476,Xiaomi ,4.6,Xiaomi 12 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),88,4.6,Var,"['6,28', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+477,Oppo ,4.7,Oppo A16 64 GB (Oppo Türkiye Garantili),1848,4.7,Var,"['6,52', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+478,Reeder ,3.4,Reeder P13 Blue Plus 64 GB (Reeder Türkiye Garantili),81,3.4,Var,"['6,0', 'inç']",Micro USB,64 GB,8 GB RAM,4080 mAh,24,20 MP ve Üzeri,8.0 MP
+479,Casper ,4.2,Casper Via F20 128 GB 4 GB Ram (Casper Türkiye Garantili),204,4.2,Yok,"['6,55', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+480,Alcatel ,3.6,Alcatel Tcl 1068D (Resmi Distribütör Garantili),25,3.6,Yok,"['1,8', 'inç']",,32 GB,8 GB RAM,4000 mAh,2,20 MP ve Üzeri,8.0 MP
+481,Realme ,3.7,Realme GT2 Pro 128 GB 8 GB Ram (Realme Türkiye Garantili),14,3.7,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+482,Elephone ,3.4,Elephone E10 Pro 128 GB,150,3.4,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+483,Hiking ,5.0,Hiking Hikıng A51 12/256 GB Akıllı Telefon (Mavi),2,5.0,Var,"['6,55', 'inç']",,256 GB,8 GB RAM,4300 mAh,24,20 MP ve Üzeri,8.0 MP
+484,Tecno ,5.0,Tecno Mobile Spark 10 128 GB 4 GB Ram (Tecno Türkiye Garantili),2,5.0,Yok,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+485,Premier ,,Premier Air1 5.0'' 16Gb Android 6.0 Cep Telefonu,,,Yok,,Micro USB,16 GB,8 GB RAM,1900 mAh,12,20 MP ve Üzeri,8.0 MP
+486,Ixperia ,4.0,Ixperia X1 Tuşlu Kamerasız Cep Telefonu,1,4.0,Yok,"['1,36', 'inç']",,Yok,8 GB RAM,1000 mAh,2,20 MP ve Üzeri,8.0 MP
+487,vivo ,,vivo Vivo Y16 128 GB 4 GB Ram (Vivo Türkiye Garantili),,,Var,"['6,51', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+488,Sesi ,,Sesi Sesı M71 Plus Dayanıklı Akıllı Telefon,,,Yok,"['4,7', 'inç']",,16 GB,8 GB RAM,2500 mAh,24,20 MP ve Üzeri,8.0 MP
+489,Reeder ,3.9,Reeder P13 Blue Max L 2021 64 GB (Reeder Türkiye Garantili),3762,3.9,Yok,"['6,26', 'inç']",,64 GB,8 GB RAM,3800 mAh,24,20 MP ve Üzeri,8.0 MP
+490,vivo ,,vivo Vivo Y18 128 GB 8 GB Ram,,,Yok,"['6,56', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+491,Omix ,,Omix X3 64 GB 4 GB Mavi (Omix Türkiye Garantili),,,Yok,"['6,52', 'inç']",Type-C,64 GB,8 GB RAM,4500 mAh,2,20 MP ve Üzeri,8.0 MP
+492,Casper ,4.0,Casper Via F30 128 GB 4 GB Ram (Casper Türkiye Garantili),54,4.0,Var,"['6,52', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+493,Infinix ,4.6,Infinix İnfinix Note 30 128 GB 8 GB Ram (İnfinix Türkiye Garantili),16,4.6,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+494,Reeder ,4.1,Reeder P13 Blue Max 64 GB (Reeder Türkiye Garantili),1746,4.1,Var,"['6,47', 'inç']",Type-C,64 GB,8 GB RAM,4680 mAh,24,20 MP ve Üzeri,8.0 MP
+495,vivo ,4.5,vivo Y21 64 GB (vivo Türkiye Garantili),420,4.5,Var,"['6,51', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+496,Tecno ,5.0,Tecno TECNO Camon 20 Premier 5G 512 GB 8 GB Ram (TECNO Türkiye Garantili),2,5.0,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+497,Samsung ,4.6,Samsung Galaxy A03 64 GB (Samsung Türkiye Garantili),576,4.6,Var,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+498,Samsung ,4.8,Samsung Galaxy S22 Ultra 5G 128 GB (Samsung Türkiye Garantili),338,4.8,Var,"['6,8', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+499,Smart Tech ,3.0,Smart Tech Smart Tech Sm B310 E Cep Telefonu Dual Sim Kamerasız,5,3.0,Yok,"['1,36', 'inç']",,Var,8 GB RAM,800 mAh,24,20 MP ve Üzeri,8.0 MP
+500,Realme ,4.5,Realme C21 64 GB (Realme Türkiye Garantili),2185,4.5,Var,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+501,POCO ,1.0,POCO Poco F3 256 GB 8 GB Ram (Poco Türkiye Garantili),1,1.0,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,4520 mAh,24,20 MP ve Üzeri,8.0 MP
+502,Realme ,4.3,Realme C3 64 GB (Realme Türkiye Garantili),19,4.3,Var,"['6,5', 'inç']",Micro USB,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+503,vivo ,4.4,vivo Y20 64 GB ( vivo Türkiye Garantili),96,4.4,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+504,Hursoft Güvenlik ,,Hursoft Güvenlik Hursoft Güvenlik Hursoft F22 Parmak Izi Okuyucu + Hursoft Personel Devam Kontrol Programı,,,,,,,8 GB RAM,,24,20 MP ve Üzeri,8.0 MP
+505,Hiking ,,Hiking A46 6/128GB Akıllı Telefon,,,Yok,"['6,51', 'inç']",Type-C,256 GB,8 GB RAM,4000 mAh,2,20 MP ve Üzeri,8.0 MP
+506,Casper ,,Casper VIA M40 128 GB 6 GB RAM Opal Mavi,,,Var,"['6,53', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+507,Apple ,4.8,Apple iPhone 12 Pro 512 GB,74,4.8,Var,"['6,1', 'inç']",Lightning,512 GB,8 GB RAM,2815 mAh,24,20 MP ve Üzeri,8.0 MP
+508,Omix ,,Omix X5 128 GB 4 GB Mor (Omix Türkiye Garantili),,,Yok,"['2,5', 'inç']",,128 GB,8 GB RAM,1000 mAh,1,20 MP ve Üzeri,8.0 MP
+509,Infinix ,4.0,Infinix İnfinix Note 12 VIP 256 GB 8 GB Ram (İnfinix Türkiye Garantili),6,4.0,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+510,Xiaomi ,4.6,Xiaomi Mi 11T Pro 256 GB 12 GB Ram (Xiaomi Türkiye Garantili),174,4.6,Yok,"['6,67', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+511,Xiaomi ,4.6,Xiaomi Redmi Note 10 64GB (Xiaomi Türkiye Garantili),565,4.6,Var,"['6,47', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+512,Hiking ,,Hiking A44 6/128GB Akıllı Telefon,,,Yok,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,4120 mAh,2,20 MP ve Üzeri,8.0 MP
+513,Realme ,4.6,Realme 7 64 GB (Realme Türkiye Garantili),594,4.6,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5500 mAh,24,20 MP ve Üzeri,8.0 MP
+514,Tecno ,4.6,Tecno TECNO SPARK 8C 64 GB 4 GB Ram (TECNO Türkiye Garantili),58,4.6,Var,"['6,6', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+515,Xiaomi ,4.6,Xiaomi Redmi Note 10S 8 GB Ram 128 GB Gri (Xiaomi Türkiye Garantili),13,4.6,Var,"['6,43', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+516,vivo ,4.5,vivo Vivo V25 256 GB 8 GB RAM ( Türkiye Garantili),83,4.5,Var,"['6,44', 'inç']",Type-C,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+517,Huawei ,4.8,Huawei Nova 5T 128 GB (Huawei Türkiye Garantili),150,4.8,Var,"['6,26', 'inç']",Type-C,128 GB,8 GB RAM,3750 mAh,24,20 MP ve Üzeri,8.0 MP
+518,Tecno ,5.0,Tecno Phantom V Flip 8/256 GB (Tecno Türkiye Garantili),1,5.0,Var,"['6,9', 'inç']",,256 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+519,TCL ,4.2,TCL 20 SE 64 GB (TCL Türkiye Garantili),111,4.2,Var,"['6,8', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+520,Reeder ,3.7,Reeder P13 Blue Max Lite 16 GB (Reeder Türkiye Garantili),898,3.7,Var,"['6,2', 'inç']",Micro USB,16 GB,8 GB RAM,4200 mAh,24,20 MP ve Üzeri,8.0 MP
+521,Omix ,4.3,Omix X5 64 GB 4 GB Beyaz (Omix Türkiye Garantili),31,4.3,Var,"['6,57', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+522,POCO ,4.5,POCO Poco X4 Pro 5G 128 GB (Poco Türkiye Garantili),72,4.5,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+523,Tecno ,4.6,Tecno TECNO CAMON 18P 128 GB 8+5 GB Ram (TECNO Türkiye Garantili)  ,585,4.6,Var,"['6,8', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+524,Huawei ,4.2,Huawei Mate Xs 512 GB (Huawei Türkiye Garantili),18,4.2,Yok,"['6,6', 'inç']",Type-C,512 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+525,Samsung ,4.6,Samsung Galaxy A02S 64 GB (Samsung Türkiye Garantili),102,4.6,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+526,Samsung ,4.5,Samsung Galaxy A03S 64 GB (Samsung Türkiye Garantili),29,4.5,Var,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+527,Samsung ,4.2,Samsung Galaxy J8 32 GB (Samsung Türkiye Garantili),187,4.2,Var,"['6,0', 'inç']",Micro USB,32 GB,8 GB RAM,3500 mAh,24,20 MP ve Üzeri,8.0 MP
+528,vivo ,,vivo Vivo Y18 256 GB 8 GB Ram,,,Yok,"['6,56', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+529,Samsung ,4.8,Samsung Galaxy A52S 128 GB 8 GB Ram 5G (Samsung Türkiye Garantili),1219,4.8,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+530,Huawei ,4.4,Huawei Nova 11i 128 GB 8 GB Ram (Huawei Türkiye Garantili),95,4.4,Var,"['6,78', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+531,Infinix ,3.0,Infinix Infınıx Hot 20I 4/64GB Black,2,3.0,Yok,"['6,6', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+532,Realme ,4.5,Realme C11 32 GB (Realme Türkiye Garantili),63,4.5,Var,"['6,5', 'inç']",Micro USB,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+533,General Mobile ,3.7,General Mobile General Mobile GM 21 New Edition 32 GB 3 GB Ram (General Mobile Garantili),3,3.7,Var,"['6,51', 'inç']",,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+534,Realme ,,Realme C55 128 GB,,,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+535,Omix ,5.0,Omix X3 64 GB 4 GB Ram (Omix Türkiye Garantili),5,5.0,Yok,"['6,5', 'inç']",,64 GB,8 GB RAM,4500 mAh,2,20 MP ve Üzeri,8.0 MP
+536,Alcatel ,4.3,Alcatel 3X 2020 128 GB (Alcatel Türkiye Garantili),79,4.3,Var,"['6,52']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+537,vivo ,4.7,vivo Y20S 128 GB ( vivo Türkiye Garantili),3,4.7,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+538,Ulefone ,4.0,Ulefone Note 9p 64 GB (Ulefone Türkiye Garantili),58,4.0,Var,"['6,52', 'inç']",Type-C,64 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+539,vivo ,4.3,vivo Vivo Y11S 32 GB 3 GB Ram (Vivo Türkiye Garantili),150,4.3,Var,"['6,51', 'inç']",Micro USB,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+540,Oukitel ,,Oukitel C36 128 GB 4 GB Ram (Oukitel Türkiye Garantili),,,Var,"['6,56', 'inç']",,128 GB,8 GB RAM,5150 mAh,24,20 MP ve Üzeri,8.0 MP
+541,Premier ,,Premier Aır2 5.5 32Gb Android 6.0 Cep Telefonu,,,,,Micro USB,32 GB,8 GB RAM,,12,20 MP ve Üzeri,8.0 MP
+542,Dijitsu ,,Dijitsu A11S Akıllı Cep Telefonu Gri,,,Yok,"['6,53', 'inç']",Micro USB,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+543,Realme ,4.6,Realme C25 64 GB (Realme Türkiye Garantili),694,4.6,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+544,Realme ,,Realme C65 6/128GB Starlight Gold,,,Yok,"['6,43', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+545,Huawei ,4.3,Huawei Y7 2019 32 GB (Huawei Türkiye Garantili),268,4.3,Var,"['6,26', 'inç']",Micro USB,32 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+546,Realme ,4.7,Realme GT2 256 GB 12 GB Ram (Realme Türkiye Garantili),105,4.7,Var,"['6,2', 'inç']",,256 GB,8 GB RAM,4880 mAh,24,20 MP ve Üzeri,8.0 MP
+547,Ulefone ,5.0,Ulefone Armor 22 6600MAH 6.58' 64MP 8gb 256GB IP68 Gece Görüş Kameralı Dayanıklı Cep Telefonu,2,5.0,Var,"['6,58', 'inç']",,256 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+548,Apple ,4.9,Apple iPhone 12 Pro Max 256 GB,952,4.9,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,3687 mAh,24,20 MP ve Üzeri,8.0 MP
+549,Huawei ,4.7,Huawei Mate 40 Pro 256 GB (Huawei Türkiye Garantili),22,4.7,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+550,Xiaomi ,4.7,Xiaomi Redmi Note 10S 64 GB 6 GB Ram (Xiaomi Türkiye Garantili),979,4.7,Yok,"['6,43', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+551,Vestel ,4.5,Vestel Venus E5 32 GB (Vestel Garantili),636,4.5,Var,"['6,1', 'inç']",Type-C,32 GB,8 GB RAM,3400 mAh,24,20 MP ve Üzeri,8.0 MP
+552,POCO ,4.5,POCO Poco F3 256 GB (Poco Türkiye Garantili),50,4.5,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,4520 mAh,24,20 MP ve Üzeri,8.0 MP
+553,Oppo ,4.6,Oppo A73 128 GB (Oppo Türkiye Garantili),2042,4.6,Var,"['6,44', 'inç']",Type-C,128 GB,8 GB RAM,4015 mAh,24,20 MP ve Üzeri,8.0 MP
+554,Tecno ,,Tecno Camon 30 256 GB 8 GB (Tecno Türkiye Garantili),,,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+555,Apple ,4.8,Apple iPhone XR 64 GB,2483,4.8,Var,"['6,1', 'inç']",Lightning,64 GB,8 GB RAM,2942 mAh,24,20 MP ve Üzeri,8.0 MP
+556,Xiaomi ,4.6,Xiaomi Redmi Note 11 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),2310,4.6,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+557,Realme ,4.7,Realme 6 Pro 128 GB (Realme Türkiye Garantili),350,4.7,Yok,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,4300 mAh,24,20 MP ve Üzeri,8.0 MP
+558,Samsung ,4.7,Samsung Galaxy A31 128 GB (Samsung Türkiye Garantili),865,4.7,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,,20 MP ve Üzeri,8.0 MP
+559,Samsung ,4.5,Samsung Galaxy A02s 32 GB (Samsung Türkiye Garantili),856,4.5,Yok,"['6,5', 'inç']",Type-C,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+560,Casper ,4.5,Casper Via A4 64 GB 4 GB Ram (Casper Türkiye Garantili),112,4.5,Var,"['6,3', 'inç']",Type-C,64 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+561,Infinix ,,Infinix Smart 8 Pro 128GB+8GB Ram Cep Telefonu (Infinix Türkiye Garantili),,,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+562,Reeder ,,Reeder S23 Pro Max 512GB Kırmızı,,,Var,"['6,51', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+563,Tecno ,5.0,Tecno Pova 4 Pro 256 GB 8 GB Ram (Tecno Türkiye Garantili),1,5.0,Var,"['6,67', 'inç']",,256 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+564,POCO ,4.7,POCO Poco X4 GT 256 GB 8 GB Ram (Poco Türkiye Garantili),144,4.7,Var,"['6,6', 'inç']",,256 GB,8 GB RAM,5080 mAh,24,20 MP ve Üzeri,8.0 MP
+565,TCL ,4.5,TCL 10 SE 128 (TCL Türkiye Garantili),962,4.5,Yok,"['6,53', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+566,Huawei ,4.5,Huawei Nova 11 Pro 256 GB 8 GB Ram (Huawei Türkiye Garantili),71,4.5,Var,"['6,78', 'inç']",,256 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+567,Xiaomi ,4.7,Xiaomi Mi 9T 64 GB (Xiaomi Türkiye Garantili),1400,4.7,Var,"['6,39', 'inç']",Type-C,64 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+568,POCO ,4.8,POCO Poco F5 Pro 512 GB 12 GB Ram (Poco Türkiye Garantili),272,4.8,Var,"['6,67', 'inç']",,512 GB,8 GB RAM,5160 mAh,24,20 MP ve Üzeri,8.0 MP
+569,Omix ,4.5,Omix X500 128 GB 4 GB Ram (Omix Türkiye Garantili),195,4.5,Var,"['6,67', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+570,Huawei ,4.7,Huawei Y6S 32 GB (Huawei Türkiye Garantili),188,4.7,Yok,"['6,09', 'inç']",Micro USB,32 GB,8 GB RAM,3020 mAh,24,20 MP ve Üzeri,8.0 MP
+571,TCL ,4.4,TCL 20L Plus 256 GB 6 GB Ram (TCL Türkiye Garantili),60,4.4,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+572,General Mobile ,4.7,General Mobile General Mobile Gm 21 Plus New Edition 64 GB (General Mobile Garantili),87,4.7,Var,"['6,52', 'inç']",Type-C,64 GB,8 GB RAM,5050 mAh,24,20 MP ve Üzeri,8.0 MP
+573,Xiaomi ,,Xiaomi Redmi 10C 64GB/4GB Gri – Dist,,,Var,"['1,36', 'inç']",,1 GB,8 GB RAM,1000 mAh,22,20 MP ve Üzeri,8.0 MP
+574,General Mobile ,4.6,General Mobile General Mobile Gm 21 Pro 128 GB (General Mobile Garantili),1181,4.6,Var,"['6,67', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+575,Huawei ,3.1,Huawei Y7 2018 London 16 GB (Huawei Türkiye Garantili),71,3.1,Yok,"['5,99', 'inç']",Micro USB,16 GB,8 GB RAM,3000 mAh,24,20 MP ve Üzeri,8.0 MP
+576,Reeder ,,Reeder S23 Pro Max 512GB Kırmızı,,,Var,"['6,51', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+577,Tecno ,4.8,Tecno TECNO Pova Neo 2 4/64 GB (TECNO Türkiye Garantili),6,4.8,Var,"['6,82', 'inç']",,64 GB,8 GB RAM,7000 mAh,24,20 MP ve Üzeri,8.0 MP
+578,Huawei ,4.7,Huawei Y6S 32 GB (Huawei Türkiye Garantili),188,4.7,Yok,"['6,09', 'inç']",Micro USB,32 GB,8 GB RAM,3020 mAh,24,20 MP ve Üzeri,8.0 MP
+579,Infinix ,,Infinix Smart 8 Pro 128GB+8GB Ram Cep Telefonu (Infinix Türkiye Garantili),,,Var,"['6,6', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+580,Casper ,4.5,Casper Via A4 64 GB 4 GB Ram (Casper Türkiye Garantili),112,4.5,Var,"['6,3', 'inç']",Type-C,64 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+581,Apple ,4.7,Apple iPhone 12 Pro Max 512 GB,79,4.7,Var,"['6,7', 'inç']",,512 GB,8 GB RAM,3687 mAh,24,20 MP ve Üzeri,8.0 MP
+582,Xiaomi ,4.6,Xiaomi Redmi Note 11 Pro 5G 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),405,4.6,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+583,Oppo ,4.6,Oppo A15s 64 GB (Oppo Türkiye Garantili),1824,4.6,Var,"['6,52', 'inç']",Micro USB,64 GB,8 GB RAM,4230 mAh,24,20 MP ve Üzeri,8.0 MP
+584,vivo ,4.5,vivo Y33S 128 GB (vivo Türkiye Garantili),372,4.5,Var,"['6,58', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+585,Apple ,4.8,Apple iPhone 12 Mini 64 GB,2917,4.8,Var,"['5,4', 'inç']",,64 GB,8 GB RAM,2227 mAh,24,20 MP ve Üzeri,8.0 MP
+586,Samsung ,4.6,Samsung Galaxy M14 64 GB 4 GB Ram (Samsung Türkiye Garantili),20,4.6,Var,"['6,6', 'inç']",,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+587,Samsung ,4.7,Samsung Galaxy M31s 128 GB (Samsung Türkiye Garantili),9712,4.7,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+588,Samsung ,3.0,Samsung B312 Dual Sim (İthalatçı Garantili),5,3.0,,"['2,0', 'inç']",Micro USB,,8 GB RAM,1000 mAh,24,20 MP ve Üzeri,8.0 MP
+589,Xiaomi ,4.8,Xiaomi 12 Pro 256 GB 12 GB Ram (Xiaomi Türkiye Garantili),53,4.8,Var,"['6,73', 'inç']",,256 GB,8 GB RAM,4600 mAh,24,20 MP ve Üzeri,8.0 MP
+590,Samsung ,,Samsung Galaxy M14 5g 128GB 4gb Ram Gümüş – Dist.,,,Var,"['6,7', 'inç']",,32 GB,8 GB RAM,1248 mAh,1,20 MP ve Üzeri,8.0 MP
+591,Apple ,4.9,Apple iPhone 13 Pro Max 512 GB,193,4.9,Var,"['6,7', 'inç']",,512 GB,8 GB RAM,4325 mAh,24,20 MP ve Üzeri,8.0 MP
+592,Infinix ,2.5,Infinix İnfinix Hot 10 Play 32 GB 3 GB Ram (İnfinix Türkiye Garantili),4,2.5,Var,"['6,82', 'inç']",,32 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+593,Hiking ,5.0,Hiking Hikıng A51 12/256 GB Akıllı Telefon (Gold),2,5.0,Var,"['6,55', 'inç']",,256 GB,8 GB RAM,4300 mAh,24,20 MP ve Üzeri,8.0 MP
+594,Infinix ,5.0,Infinix Hot 20I 128 GB 4 GB Ram (Infinix Türkiye Garantili),2,5.0,Yok,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+595,Apple ,4.8,Apple iPhone SE 128 GB 2. Nesil,1787,4.8,Yok,"['4,7', 'inç']",Lightning,128 GB,8 GB RAM,1821 mAh,24,20 MP ve Üzeri,8.0 MP
+596,Xiaomi ,4.7,Xiaomi Mi 10T 128 GB 8 GB RAM (Xiaomi Türkiye Garantili),881,4.7,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+597,POCO ,4.7,POCO Poco X3 GT 128 GB (Poco Türkiye Garantili),1057,4.7,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+598,vivo ,4.4,vivo Vivo Y51 128 GB 8 GB Ram (Vivo Türkiye Garantili),38,4.4,Var,"['6,58', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+599,Huawei ,3.5,Huawei Y6 2018 16 GB (Huawei Türkiye Garantili),75,3.5,Var,"['5,7', 'inç']",Micro USB,16 GB,8 GB RAM,3000 mAh,24,20 MP ve Üzeri,8.0 MP
+600,Huawei ,4.5,Huawei P Smart 2019 64 GB (Huawei Türkiye Garantili),1390,4.5,Var,"['6,21', 'inç']",Micro USB,64 GB,8 GB RAM,3400 mAh,24,20 MP ve Üzeri,8.0 MP
+601,Hiking ,4.0,Hiking Trident A80 8/256GB Dualsim Altın Akıllı Telefon,1,4.0,Var,"['6,0', 'inç']",,256 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+602,Xiaomi ,4.6,Xiaomi Mi 10T Pro 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),128,4.6,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+603,Realme ,,Realme realme 12PRO 8 GB 256 GB (realme Türkiye Garantili),,,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+604,Trident ,,Trident A29 128 GB 4 GB Ram Mor (Trident Türkiye Garantili),,,Yok,"['6,52', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,2,20 MP ve Üzeri,8.0 MP
+605,Oneplus ,,Oneplus 12R 256GB 16GB Iron Gray Akıllı Cep Telefonu,,,Var,"['6,8', 'inç']",Type-C,256 GB,8 GB RAM,5500 mAh,2,20 MP ve Üzeri,8.0 MP
+606,Premier ,,Premier Aır2 5.5 32Gb Android 6.0 Cep Telefonu,,,Yok,,Micro USB,32 GB,8 GB RAM,3000 mAh,12,20 MP ve Üzeri,8.0 MP
+607,Huawei ,4.4,Huawei P40 Pro 256 GB (Huawei Türkiye Garantili),133,4.4,Var,"['6,55', 'inç']",Type-C,256 GB,8 GB RAM,4200 mAh,24,20 MP ve Üzeri,8.0 MP
+608,POCO ,4.7,POCO Poco X3 Pro 128 GB (Poco Türkiye Garantili),2735,4.7,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5160 mAh,24,20 MP ve Üzeri,8.0 MP
+609,Apple ,4.7,Apple iPhone 8 Plus 64 GB,752,4.7,Yok,"['5,5', 'inç']",Lightning,64 GB,8 GB RAM,2691 mAh,24,20 MP ve Üzeri,8.0 MP
+610,Oneplus ,4.0,Oneplus Nord CE 3 Lite 5G 256 GB 8 GB Ram (Oneplus Türkiye Garantili),5,4.0,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+611,Samsung ,4.5,Samsung Galaxy A50 2019 64 GB (Samsung Türkiye Garantili),2014,4.5,Var,"['6,4', 'inç']",Type-C,64 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+612,Apple ,4.8,Apple iPhone 12 Pro 256 GB,539,4.8,Var,"['6,1', 'inç']",Lightning,256 GB,8 GB RAM,2815 mAh,24,20 MP ve Üzeri,8.0 MP
+613,Xiaomi ,4.6,Xiaomi Mi 11 Lite 5G NE 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),107,4.6,Yok,"['6,55', 'inç']",,128 GB,8 GB RAM,4250 mAh,24,20 MP ve Üzeri,8.0 MP
+614,Nothing ,3.3,Nothing Phone (2a) 128 GB 8 GB Ram (Nothing Türkiye Garantili),3,3.3,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+615,Casper ,,Casper Via M30 Plus 4+4=8gb Ram 128 GB (Casper Türkiye Garantili) Mavi,,,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,,20 MP ve Üzeri,8.0 MP
+616,POCO ,4.6,POCO Poco F6 512GB 12GB Ram (Poco Türkiye Garantili),64,4.6,Var,"['6,67', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+617,Xiaomi ,4.5,Xiaomi Redmi Note 11S 64 GB (Xiaomi Türkiye Garantili),24,4.5,Var,"['6,43', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+618,Huawei ,3.9,Huawei Y6p 64 GB (Huawei Türkiye Garantili),173,3.9,Yok,"['6,3', 'inç']",Micro USB,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+619,Trident ,3.8,Trident A23 Max 64 GB (Trident Türkiye Garantili),57,3.8,Var,"['6,53', 'inç']",Type-C,64 GB,8 GB RAM,3600 mAh,24,20 MP ve Üzeri,8.0 MP
+620,Hiking ,,Hiking X11 Tuşlu Kamerasız Cep Telefonu,,,Yok,"['1,77', 'inç']",Micro USB,16 MB,8 GB RAM,800 mAh,24,20 MP ve Üzeri,8.0 MP
+621,Infinix ,,Infinix Hot 11 Play 64 GB 4 GB Ram (Infinix Türkiye Garantili),,,Var,"['6,82', 'inç']",,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+622,Realme ,4.7,Realme 6 128 GB 8 GB RAM (Realme Türkiye Garantili),298,4.7,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,4300 mAh,24,20 MP ve Üzeri,8.0 MP
+623,Alcatel ,3.9,Alcatel 1066G (Alcatel Türkiye Garantili),1000,3.9,Yok,"['1,8', 'inç']",,4 GB,8 GB RAM,400 mAh,24,20 MP ve Üzeri,8.0 MP
+624,POCO ,4.6,POCO Poco F4 128 GB 6 GB Ram (Poco Türkiye Garantili),127,4.6,Var,"['6,67', 'inç']",,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+625,Samsung ,4.6,Samsung Galaxy A21s 64 GB (Samsung Türkiye Garantili),3619,4.6,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+626,Apple ,4.9,Apple iPhone 14 Pro 128 GB,2031,4.9,Var,"['6,1', 'inç']",,128 GB,8 GB RAM,3200 mAh,24,20 MP ve Üzeri,8.0 MP
+627,Tecno ,,Tecno Spark Go 2024 128 GB 4 GB Ram (Tecno Türkiye Garantili),,,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+628,Xiaomi ,4.4,Xiaomi Redmi Note 10 6 GB Ram 128GB (Xiaomi Türkiye Garantili),25,4.4,Var,"['6,47', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+629,Tecno ,,Tecno Camon 30 5G 12/512 GB,,,Var,"['6,78', 'inç']",Type-C,512 MB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+630,vivo ,4.6,vivo Vivo Y22S 64 GB 4 GB Ram (Vivo Türkiye Garantili),299,4.6,Var,"['6,55', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+631,Samsung ,4.6,Samsung Galaxy M11 32 GB (Samsung Türkiye Garantili),2081,4.6,Var,"['6,4', 'inç']",Type-C,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+632,Samsung ,4.5,Samsung Galaxy Z Fold5 1 TB 12 GB Ram (Samsung Türkiye Garantili),24,4.5,Var,"['6,2', 'inç']",Type-C,1 TB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+633,Samsung ,4.5,Samsung Galaxy Z Flip3 5G 128 GB (Samsung Türkiye Garantili),392,4.5,Yok,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,3300 mAh,24,20 MP ve Üzeri,8.0 MP
+634,Samsung ,,Samsung Galaxy Z Fold4 1tb 12 GB Ram (Samsung Türkiye Garantili),,,Var,"['7,56', 'inç']",Type-C,1 TB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+635,Tecno ,,Tecno Spark 20C 128 GB 8 GB Ram (Tecno Türkiye Garantili),,,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+636,Infinix ,5.0,Infinix İnfinix Hot 10 Play 64 GB 4 GB RAM (İnfinix Türkiye Garantili),5,5.0,Var,"['6,8', 'inç']",Micro USB,64 GB,8 GB RAM,6000 mAh,,20 MP ve Üzeri,8.0 MP
+637,Tecno ,,Tecno Camon 30 Pro 5g,,,Var,"['6,78', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+638,Apple ,4.8,Apple iPhone 13 Pro Max 1 Tb,141,4.8,Var,"['6,7', 'inç']",Lightning,1 TB,8 GB RAM,4325 mAh,24,20 MP ve Üzeri,8.0 MP
+639,Xiaomi ,4.7,Xiaomi 12T 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),89,4.7,Var,"['6,67', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+640,Infinix ,,Infinix İnfinix Hot 30i 64 GB 4 GB Ram (İnfinix Türkiye Garantili),,,Yok,"['6,56', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+641,Huawei ,4.4,Huawei P40 Lite 128 GB (Huawei Türkiye Garantili),1599,4.4,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,4200 mAh,24,20 MP ve Üzeri,8.0 MP
+642,Reeder ,3.7,Reeder P13 Blue 32 GB 2021 (Reeder Türkiye Garantili),2003,3.7,Var,"['6,26', 'inç']",Type-C,32 GB,8 GB RAM,3800 mAh,24,20 MP ve Üzeri,8.0 MP
+643,Huawei ,3.7,Huawei Y5p 32 GB (Huawei Türkiye Garantili),147,3.7,Var,"['5,45', 'inç']",Micro USB,32 GB,8 GB RAM,3020 mAh,24,20 MP ve Üzeri,8.0 MP
+644,General Mobile ,3.0,General Mobile General Mobile Gm 22 Pro 128 GB Hafıza 16 GB Ram (8gb+8gb) (Resmi Distribütör Garantili),1,3.0,Var,"['6,78', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+645,POCO ,4.7,POCO M3 Pro 5G 6 GB 128 GB (POCO Türkiye Garantili),145,4.7,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+646,vivo ,,vivo Vivo Y18 128 GB 4 GB Ram,,,Yok,"['6,56', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+647,Omix ,,Omix Omıx X600 4+4 64GB,,,Yok,"['6,08', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+648,Huawei ,3.7,Huawei Y5p 32 GB (Huawei Türkiye Garantili),147,3.7,Var,"['5,45', 'inç']",Micro USB,32 GB,8 GB RAM,3020 mAh,24,20 MP ve Üzeri,8.0 MP
+649,Reeder ,3.7,Reeder P13 Blue 32 GB 2021 (Reeder Türkiye Garantili),2003,3.7,Var,"['6,26', 'inç']",Type-C,32 GB,8 GB RAM,3800 mAh,24,20 MP ve Üzeri,8.0 MP
+650,Huawei ,4.1,Huawei Nova Y90 128 GB 6 GB Ram (Huawei Türkiye Garantili),138,4.1,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+651,Realme ,,Realme C65 6/128GB Starlight Black,,,Yok,"['6,62', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+652,Tecno ,,Tecno Spark 20 Pro Plus 256GB (Tecno Türkiye Garantili),,,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+653,Tecno ,,Tecno Camon 30 256 GB 8 GB (Tecno Türkiye Garantili),,,Yok,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+654,Samsung ,4.7,Samsung Galaxy M21 64 GB (Samsung Türkiye Garantili),9274,4.7,Var,"['6,4', 'inç']",Type-C,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+655,Samsung ,4.7,Samsung Galaxy A03S 32 GB (Samsung Türkiye Garantili),156,4.7,Var,"['6,5', 'inç']",,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+656,Samsung ,4.5,Samsung Galaxy A10s 32 GB (Samsung Türkiye Garantili),987,4.5,Var,"['6,2', 'inç']",Micro USB,32 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+657,Reeder ,,Reeder S23PRO Max 512GB ( Reedertürkiye Garantilidir ),,,Yok,"['6,51', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+658,Dijitsu ,3.8,Dijitsu DCT90 Cep Telefonu 128 GB 6 GB Ram,5,3.8,Yok,"['6,52', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+659,Oppo ,4.5,Oppo A15 32 GB (Oppo Türkiye Garantili),476,4.5,Var,"['6,52', 'inç']",Micro USB,32 GB,8 GB RAM,4230 mAh,24,20 MP ve Üzeri,8.0 MP
+660,Tecno ,4.5,Tecno TECNO Spark 7T 64 GB 4 GB Ram (TECNO Türkiye Garantili),423,4.5,Yok,"['6,52', 'inç']",,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+661,Trident ,4.2,Trident A25 128 GB (Trident Türkiye Garantili),163,4.2,Yok,"['6,53', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+662,Huawei ,4.6,Huawei P30 Lite 128 GB (Huawei Türkiye Garantili),2005,4.6,Var,"['6,18', 'inç']",Type-C,128 GB,8 GB RAM,3340 mAh,24,20 MP ve Üzeri,8.0 MP
+663,Huawei ,4.4,Huawei P30 Pro 128 GB (Huawei Türkiye Garantili),237,4.4,Yok,"['6,47', 'inç']",Type-C,128 GB,8 GB RAM,4200 mAh,24,20 MP ve Üzeri,8.0 MP
+664,Huawei ,4.0,Huawei P40 128 GB (Huawei Türkiye Garantili),84,4.0,Var,"['6,1', 'inç']",Type-C,128 GB,8 GB RAM,3800 mAh,23,20 MP ve Üzeri,8.0 MP
+665,Infinix ,4.0,Infinix İnfinix Hot 11 Play 64 GB 4 GB Ram (İnfinix Türkiye Garantili),7,4.0,Var,"['6,82', 'inç']",,64 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+666,Omix ,4.4,Omix X300 64 GB 3 GB Ram (Omix Türkiye Garantili),103,4.4,Var,"['6,67', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+667,Tecno ,,Tecno Camon 30 256 GB 12 GB RAM (Tecno Türkiye Garantili),,,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+668,Oppo ,4.7,Oppo A5s 32 GB (Oppo Türkiye Garantili),383,4.7,Yok,"['6,2', 'inç']",Micro USB,32 GB,8 GB RAM,4230 mAh,24,20 MP ve Üzeri,8.0 MP
+669,Tecno ,,Tecno Pova 4 Pro 8 GB 256 GB (Tecno Türkiye Garantili),,,Var,"['6,6', 'inç']",,256 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+670,Tecno ,5.0,Tecno Tecno Mobile Spark 8C 128 GB 4 GB Ram (Tecno Türkiye Garantili),3,5.0,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+671,POCO ,,POCO Poco M5S Gri 128GB Hafıza 6gb Ram (Poco Türkiye Garantili),,,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+672,Oppo ,4.7,Oppo Reno 5 Lite 128 GB (Oppo Türkiye Garantili),8878,4.7,Var,"['6,43', 'inç']",Type-C,128 GB,8 GB RAM,4310 mAh,24,20 MP ve Üzeri,8.0 MP
+673,Dijitsu ,,Dijitsu A11S Akıllı Cep Telefonu Mavi,,,Yok,"['6,53', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+674,vivo ,3.7,vivo Vivo Y27 6/128 GB V2249 Koyu Bordo Cep Telefonu,3,3.7,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+675,Ovion ,,Ovion V10 Life 128 Gb/4 GB Ram Siyah Android+Bluetooth Kulaklık Hediyeli,,,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+676,Hiking ,,Hiking A44 6/128GB Akıllı Telefon,,,Yok,"['6,59', 'inç']",Type-C,128 GB,8 GB RAM,4120 mAh,2,20 MP ve Üzeri,8.0 MP
+677,Tecno ,,Tecno Camon 30 5g 12/512 GB,,,Var,"['6,78', 'inç']",Type-C,512 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+678,Tecno ,3.0,Tecno Spark 20 8 GB Ram 256 GB Cep Telefonu (Tecno Türkiye Garantili),2,3.0,Var,"['6,6', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+679,Realme ,4.5,Realme C2 32 GB (Realme Türkiye Garantili),205,4.5,Var,"['6,1', 'inç']",Micro USB,32 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+680,Hiking ,,Hiking Cep Telefonu A40 Black 6/128,,,Yok,"['6,52', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+681,Apple ,4.9,Apple iPhone 14 Pro 256 GB,1587,4.9,Var,"['6,1', 'inç']",,256 GB,8 GB RAM,3200 mAh,24,20 MP ve Üzeri,8.0 MP
+682,Ulefone ,,Ulefone Armor 22 6600MAH 6.58” 64MP 8gb 128GB IP68 Gece Görüş Kameralı Dayanıklı Cep Telefonu,,,Yok,"['6,58', 'inç']",Type-C,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+683,Huawei ,4.2,Huawei P40 Lite E 64 GB (Huawei Türkiye Garantili),236,4.2,Var,"['6,39', 'inç']",Micro USB,64 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+684,Xiaomi ,,Xiaomi Xaomi Redmi Note 11 Pro,,,Var,"['6,5', 'inç']",,128 GB,8 GB RAM,5000 mAh,,20 MP ve Üzeri,8.0 MP
+685,Welio ,1.5,Welio Wkey T100 Tuşlu Kamerasız Asker/Yaşlı Cep Telefonu,2,1.5,Yok,"['1,8', 'inç']",Type-C,32 MB,8 GB RAM,1050 mAh,24,20 MP ve Üzeri,8.0 MP
+686,Omix ,,Omix X5 128 GB  4 GB Beyaz (Omix Türkiye Garantili),,,Var,"['1,7', 'inç']",,128 GB,8 GB RAM,1800 mAh,1,20 MP ve Üzeri,8.0 MP
+687,Tecno ,3.6,Tecno TECNO Spark 8T 64 GB 4 GB Ram (TECNO Türkiye Garantili),41,3.6,Var,"['6,58', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+688,Apple ,4.7,Apple iPhone XS Max 64 GB,161,4.7,Var,"['6,5', 'inç']",Lightning,64 GB,8 GB RAM,3174 mAh,24,20 MP ve Üzeri,8.0 MP
+689,Casper ,3.9,Casper Via M30 64 GB 3 GB Ram (Casper Türkiye Garantili),27,3.9,Var,"['6,5', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+690,Realme ,4.2,Realme C3i 32 GB (Realme Türkiye Garantili),33,4.2,Var,"['6,5', 'inç']",Micro USB,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+691,Xiaomi ,4.4,Xiaomi Redmi Note 10S 128 GB 6 GB Ram (Xiaomi Türkiye Garantili),20,4.4,Var,"['6,43', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+692,Infinix ,4.4,Infinix İnfinix Hot 11S 128 GB 6 GB Ram (İnfinix Türkiye Garantili),10,4.4,Var,"['6,78', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+693,Apple ,4.8,Apple iPhone XS Max 512 GB,61,4.8,Var,"['6,5', 'inç']",Lightning,512 GB,8 GB RAM,3174 mAh,24,20 MP ve Üzeri,8.0 MP
+694,Tecno ,,Tecno Pova 6 Pro 5g 256GB (Tecno Türkiye Garantili),,,Var,"['6,78', 'inç']",Type-C,256 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+695,Infinix ,5.0,Infinix Hot 20I,3,5.0,Yok,"['6,6', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+696,POCO ,4.7,POCO Poco X3 GT 256 GB (Poco Türkiye Garantili),146,4.7,Yok,"['6,6', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+697,Realme ,4.6,Realme 6i 128 GB (Realme Türkiye Garantili),1326,4.6,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+698,Xiaomi ,4.6,Xiaomi Mi 11 Lite 5G NE 256 GB 8 GB Ram (Xiaomi Türkiye Garantili),214,4.6,Yok,"['6,55', 'inç']",,256 GB,8 GB RAM,4250 mAh,24,20 MP ve Üzeri,8.0 MP
+699,Oppo ,4.5,Oppo RX17 Neo 128 GB (Oppo Türkiye Garantili),88,4.5,Yok,"['6,41', 'inç']",Micro USB,128 GB,8 GB RAM,3600 mAh,24,20 MP ve Üzeri,8.0 MP
+700,Infinix ,4.5,Infinix İnfinix Hot 11S 128 GB 4 GB Ram (İnfinix Türkiye Garantili),24,4.5,Var,"['6,78', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+701,General Mobile ,,General Mobile General Mobıle GM23 Se 4+64GB Ice Blue - Mix,,,Var,"['6,0', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+702,Hiking ,,"Hiking Hikıng A40 4gb Ram 128GB Hafıza 6,52"" Siyah (Hiking Türkiye)",,,Yok,"['6,52', 'inç']",Type-C,128 MB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+703,Reeder ,5.0,Reeder S23 Pro Max 512 GB Beyaz,3,5.0,Yok,"['6,51', 'inç']",,521GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+704,Oppo ,4.7,Oppo A12 32 GB (Oppo Türkiye Garantili),70,4.7,Var,"['6,22', 'inç']",,32 GB,8 GB RAM,4230 mAh,24,20 MP ve Üzeri,8.0 MP
+705,Huawei ,4.7,Huawei Mate 50 Pro 256 GB 8 GB Ram (Huawei Türkiye Garantili),45,4.7,Var,"['6,74', 'inç']",,256 GB,8 GB RAM,4700 mAh,24,20 MP ve Üzeri,8.0 MP
+706,HCS ,3.0,HCS Flip 15MİNİ Tuşlu Cep Telefon,2,3.0,Yok,"['2,4', 'inç']",Micro USB,8 GB,8 GB RAM,5600 mAh,1,20 MP ve Üzeri,8.0 MP
+707,Digiphone ,,Digiphone Itel İT2166 Deep Blue Tuşlu Cep Telefonu,,,Yok,"['1,5', 'inç']",Micro USB,2 GB,8 GB RAM,1000 mAh,,20 MP ve Üzeri,8.0 MP
+708,Samsung ,4.7,Samsung Galaxy S21 5G 128 GB (Samsung Türkiye Garantili),4969,4.7,Var,"['6,2', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+709,Reeder ,,Reeder S23 Pro Max 8gb/1tb,,,Var,"['6,51', 'inç']",Type-C,1 TB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+710,Samsung ,4.6,Samsung Galaxy A11 32 GB (Samsung Türkiye Garantili),520,4.6,Var,"['6,4', 'inç']",Type-C,32 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+711,Samsung ,3.5,Samsung Galaxy Z Fold4 512 GB 12 GB Ram (Samsung Türkiye Garantili),4,3.5,Var,"['7,56', 'inç']",Type-C,512 GB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+712,Samsung ,5.0,Samsung Galaxy Z Fold4 1tb 12 GB Ram (Samsung Türkiye Garantili),4,5.0,Var,"['7,56', 'inç']",,1 TB,8 GB RAM,4400 mAh,24,20 MP ve Üzeri,8.0 MP
+713,Reeder ,3.6,Reeder P13 Blue Max Pro Lite 2022 64 GB (Reeder Türkiye Garantili),453,3.6,Yok,"['6,5', 'inç']",,64 GB,8 GB RAM,3950 mAh,24,20 MP ve Üzeri,8.0 MP
+714,Apple ,4.9,Apple iPhone 12 Pro Max 128 GB,861,4.9,Var,"['6,7', 'inç']",,128 GB,8 GB RAM,3687 mAh,24,20 MP ve Üzeri,8.0 MP
+715,POCO ,4.7,POCO Poco M4 Pro 256 GB (Poco Türkiye Garantili),185,4.7,Var,"['6,6', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+716,Apple ,4.8,Apple iPhone 13 Pro 128 GB,1500,4.8,Var,"['6,1', 'inç']",,128 GB,8 GB RAM,3095 mAh,24,20 MP ve Üzeri,8.0 MP
+717,Infinix ,1.0,Infinix İnfinix Hot 12 128 GB 4+3 GB Ram (İnfinix Türkiye Garantili),1,1.0,Yok,"['6,82', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+718,General Mobile ,,General Mobile General Mobile Era 30 8gb (4gb + 4gb Genişletilmiş Ram) + 128GB Hafıza Çift Sim Kart,,,Var,"['6,53', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,2,20 MP ve Üzeri,8.0 MP
+719,Omix ,3.7,Omix X400 128 GB 4 GB Ram Aksesuarsız Kutu (Omix Türkiye Garantili),6,3.7,Var,"['6,53', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+720,Casper ,4.4,Casper Via G5 64 GB 3 GB Ram (Casper Türkiye Garantili),44,4.4,Var,"['6,52', 'inç']",Micro USB,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+721,vivo ,4.2,vivo X50 Lite 128 GB (Vivo Türkiye Garantili),13,4.2,Yok,"['6,3', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+722,ZTE ,4.6,ZTE Blade V30 Vita 4 GB 128 GB Siyah Cep Telefonu,25,4.6,Yok,"['6,82', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+723,POCO ,4.2,POCO Poco C40 32 GB 3 GB Ram (Poco Türkiye Garantili),277,4.2,Yok,"['6,71', 'inç']",,32 GB,8 GB RAM,5000 mAh,,20 MP ve Üzeri,8.0 MP
+724,Oukitel ,4.1,Oukitel C21 Pro 64 GB (Oukitel Türkiye Garantili),57,4.1,Var,"['6,39', 'inç']",,64 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+725,Xiaomi ,4.4,Xiaomi Redmi Note 11 Pro 5G 128 GB 8 GB Ram (Xiaomi Türkiye Garantili),223,4.4,Var,"['6,67', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+726,Hiking ,3.5,Hiking A27 128 GB 8 GB Ram (Hiking Türkiye Garantili),22,3.5,Var,"['6,53', 'inç']",,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+727,Alcatel ,4.5,Alcatel 1S (2020) 32 GB (Alcatel Türkiye Garantili),162,4.5,Var,"['6,22', 'inç']",,32 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+728,Infinix ,4.6,Infinix İnfinix Note 12 256 GB 8 GB Ram (İnfinix Türkiye Garantili),11,4.6,Var,"['6,7', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+729,Oneplus ,,Oneplus 12R 256GB 16GB Cool Blue Akıllı Cep Telefonu,,,Var,"['6,8', 'inç']",Type-C,256 GB,8 GB RAM,5500 mAh,2,20 MP ve Üzeri,8.0 MP
+730,Apple ,4.8,Apple iPhone 11 Pro Max 512 GB,73,4.8,Var,"['6,5', 'inç']",Lightning,512 GB,8 GB RAM,3969 mAh,24,20 MP ve Üzeri,8.0 MP
+731,Alcatel ,,Alcatel 2057D Tuşlu Telefon Siyah,,,Yok,"['2,4', 'inç']",Micro USB,1 GB,8 GB RAM,970 mAh,24,20 MP ve Üzeri,8.0 MP
+732,Xiaomi ,4.0,Xiaomi Mi 11 Lite 64 GB (Xiaomi Türkiye Garantili),16,4.0,Yok,"['6,55', 'inç']",Type-C,64 GB,8 GB RAM,4250 mAh,24,20 MP ve Üzeri,8.0 MP
+733,POCO ,4.7,POCO Poco X3 Pro 8 GB Ram 256 GB (Poco Türkiye Garantili),6591,4.7,Var,"['6,67', 'inç']",Type-C,256 GB,8 GB RAM,5160 mAh,24,20 MP ve Üzeri,8.0 MP
+734,Samsung ,4.8,Samsung Galaxy S22 Ultra 5G 256 GB (Samsung Türkiye Garantili),607,4.8,Var,"['6,8', 'inç']",Type-C,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+735,Samsung ,4.7,Samsung Galaxy A71 2020 128 GB (Samsung Türkiye Garantili),2401,4.7,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,4500 mAh,24,20 MP ve Üzeri,8.0 MP
+736,Apple ,4.8,Apple iPhone 14 Pro 512 GB,181,4.8,Var,"['6,1', 'inç']",Lightning,512 GB,8 GB RAM,3200 mAh,24,20 MP ve Üzeri,8.0 MP
+737,Premier ,,Premier Aır2 5.5 32Gb Android 6.0 Cep Telefonu,,,,,Micro USB,32 GB,8 GB RAM,3000 mAh,12,20 MP ve Üzeri,8.0 MP
+738,POCO ,4.5,POCO Poco M5S Blue 128GB Hafıza 6gb Ram (Poco Türkiye Garantili),2,4.5,Var,"['6,43', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+739,Mipo ,,Mipo M46 Pro 128 GB Siyah,,,Yok,"['6,82', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+740,Samsung ,4.7,Samsung Galaxy A73 5G 256 GB (Samsung Türkiye Garantili),337,4.7,Var,"['6,7', 'inç']",,256 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+741,Apple ,4.6,Apple iPhone 6 32 GB,574,4.6,Yok,"['4,7', 'inç']",Lightning,32 GB,8 GB RAM,1810 mAh,24,20 MP ve Üzeri,8.0 MP
+742,Infinix ,1.0,Infinix İnfinix Hot 30i 64 GB 4 GB Ram (İnfinix Türkiye Garantili),1,1.0,Yok,"['6,56', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+743,Hiking ,,Hiking A47 6/128 Akıllı Telefon,,,Yok,"['6,5', 'inç']",Type-C,256 GB,8 GB RAM,4500 mAh,2,20 MP ve Üzeri,8.0 MP
+744,Tecno ,4.5,Tecno TECNO SPARK 8 PRO 128 GB 4 GB Ram ( Türkiye Garantili),47,4.5,Var,"['6,8', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+745,Casper ,4.2,Casper Via S 64 GB 3 GB Ram (Casper Türkiye Garantili),106,4.2,Yok,"['6,22', 'inç']",Micro USB,64 GB,8 GB RAM,3500 mAh,24,20 MP ve Üzeri,8.0 MP
+746,Hiking ,,Hiking A30 128 GB 6 GB Ram (Hiking Türkiye Garantili),,,Var,"['6,78', 'inç']",Type-C,128 GB,8 GB RAM,4900 mAh,24,20 MP ve Üzeri,8.0 MP
+747,Realme ,4.8,Realme 8 128 GB 6 GB Ram (Realme Türkiye Garantili),423,4.8,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+748,Apple ,4.8,Apple iPhone 11 Pro 64 GB,302,4.8,Var,"['5,8', 'inç']",Lightning,64 GB,8 GB RAM,3046 mAh,24,20 MP ve Üzeri,8.0 MP
+749,Trident ,4.0,Trident A29 128 GB 4 GB Ram (Trident Türkiye Garantili),1,4.0,Var,"['6,0', 'inç']",Type-C,128 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+750,Apple ,4.7,Apple iPhone SE 64 GB,4161,4.7,Yok,"['4,7', 'inç']",Lightning,64 GB,8 GB RAM,1821 mAh,24,20 MP ve Üzeri,8.0 MP
+751,Realme ,4.5,Realme C21 32 GB (Realme Türkiye Garantili),1021,4.5,Var,"['6,5', 'inç']",Micro USB,32 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+752,Alcatel ,4.1,Alcatel 1 SE 2020 64 GB (Alcatel Türkiye Garantili),44,4.1,Var,"['6,22', 'inç']",Type-C,64 GB,8 GB RAM,4000 mAh,24,20 MP ve Üzeri,8.0 MP
+753,BlackBerry ,4.3,BlackBerry Blackberry Torch 9800 4 GB,55,4.3,,"['3,2', 'inç']",,,8 GB RAM,,24,20 MP ve Üzeri,8.0 MP
+754,Infinix ,5.0,Infinix İnfinix Hot 11 Play 128 GB 4 GB Ram (İnfinix Türkiye Garantili),3,5.0,Var,"['6,82', 'inç']",,128 GB,8 GB RAM,6000 mAh,24,20 MP ve Üzeri,8.0 MP
+755,Casper ,4.0,Casper Via M30 Plus 4+4=8gb Ram 128 GB (Casper Türkiye Garantili) Siyah,1,4.0,Var,"['6,5', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,,20 MP ve Üzeri,8.0 MP
+756,Omix ,4.4,Omix X300 64 GB 4 GB Ram (Omix Türkiye Garantili),115,4.4,Yok,"['6,67', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+757,Infinix ,4.3,Infinix İnfinix Hot 20i 128 GB 4 GB Ram (İnfinix Türkiye Garantili),32,4.3,Var,"['6,6', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+758,Omix ,,Omix X600 Dual 128GB/4 Gold,,,Var,"['6,78', 'inç']",,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+759,Apple ,,Apple iPhone 15 Plus 512 GB,,,Var,"['6,7', 'inç']",Lightning,512 GB,8 GB RAM,4912 mAh,24,20 MP ve Üzeri,8.0 MP
+760,Samsung ,4.7,Samsung Galaxy A22 64 GB (Samsung Türkiye Garantili),588,4.7,Var,"['6,4', 'inç']",Type-C,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+761,Samsung ,4.7,Samsung Galaxy M52 5G 128 GB (Samsung Türkiye Garantili),6513,4.7,Var,"['6,7', 'inç']",Type-C,128 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+762,Samsung ,,Samsung Galaxy A04S,,,Var,"['6,5', 'inç']",,64 GB,8 GB RAM,5000 mAh,24,20 MP ve Üzeri,8.0 MP
+763,Samsung ,4.6,Samsung Galaxy A01 16 GB (Samsung Türkiye Garantili),608,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+764,Oppo ,4.7,Oppo A91 128 GB (Oppo Türkiye Garantili),657,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+765,Apple ,4.9,Apple iPhone 11 Pro Max 64 GB,330,4.9,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+766,Oppo ,4.7,Oppo A31 64 GB (Oppo Türkiye Garantili),85,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+767,Oppo ,4.6,Oppo Reno 4 Lite 128 GB (Oppo Türkiye Garantili),911,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+768,Xiaomi ,4.1,Xiaomi Redmi Note 8 64 GB (İthalatçı Garantili),1242,4.1,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+769,Alcatel ,4.5,Alcatel 3X 2019 64 GB (Alcatel Türkiye Garantili),53,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+770,HONOR ,4.7,HONOR Honor 10 Lite 64 GB (Honor Türkiye Garantili),12,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+771,Xiaomi ,4.5,Xiaomi Redmi Note 7 64 GB (İthalatçı Garantili),207,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+772,Samsung ,4.8,Samsung Galaxy S10 Lite 128 GB (Samsung Türkiye Garantilii),439,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+773,Elephone ,4.1,Elephone PX 64 GB  (Elephone Türkiye Garantili),36,4.1,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+774,HONOR ,4.6,HONOR 9 Lite 32 GB (Honor Türkiye Garantili),45,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+775,Samsung ,3.5,Samsung Galaxy A9 Star Lite 64 GB Dual Sim (İthalatçı Garantili),2,3.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+776,Huawei ,4.5,Huawei P20 128 GB (Huawei Türkiye Garantili),169,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+777,General Mobile ,4.1,General Mobile General Mobile GM6 DS 16 GB (General Mobile Garantili),18,4.1,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+778,Samsung ,4.6,Samsung Galaxy M30s 64 GB (Samsung Türkiye Garantili),1976,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+779,Xiaomi ,4.6,Xiaomi Redmi Note 9S 128 GB (Xiaomi Türkiye Garantili),2335,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+780,Casper ,4.3,Casper Via E3 32 GB,109,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+781,Vestel ,4.5,Vestel Venus V7 64 GB (Vestel Garantili),251,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+782,Oppo ,4.8,Oppo A5 2020 64 GB (Oppo Türkiye Garantili),362,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+783,Huawei ,4.5,Huawei P Smart 32 GB (Huawei Türkiye Garantili),579,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+784,Samsung ,3.0,Samsung Galaxy A51 2020 64 GB (İthalatçı Garantili),2,3.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+785,C5 Electronics ,5.0,C5 Electronics C5 Mobile Noa G1 8 GB (İthalatçı Garantili),3,5.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+786,Samsung ,4.6,Samsung Galaxy S20 128 GB (Samsung Türkiye Garantili),674,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+787,HONOR ,4.5,HONOR 8S 32 GB (Honor Türkiye Garantili),34,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+788,Casper ,4.7,Casper Via P3 32 GB,65,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+789,Apple ,4.7,Apple iPhone 11 Pro Max 256 GB,117,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+790,Apple ,4.8,Apple iPhone 11 Pro 512 GB,54,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+791,Palm ,3.7,Palm PVG100E 32 GB,17,3.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+792,Samsung ,4.8,Samsung Galaxy S10 Lite 128 GB (Samsung Türkiye Garantilii),439,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+793,Casper ,4.3,Casper Via E3 32 GB,109,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+794,Xiaomi ,4.6,Xiaomi Redmi 7A 32 GB (Xiaomi Türkiye Garantili),849,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+795,Apple ,4.7,Apple iPhone 11 Pro Max 256 GB,117,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+796,Apple ,4.8,Apple iPhone 11 Pro 512 GB,54,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+797,Samsung ,3.3,Samsung B350 Dual Sim,843,3.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+798,Reeder ,4.0,Reeder P13 Blue 16 GB 3 GB RAM (Reeder Türkiye Garantili),5644,4.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+799,Xiaomi ,4.6,Xiaomi Redmi 9 64 GB (Xiaomi Türkiye Garantili),770,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+800,Alcatel ,3.6,Alcatel 1066D (Alcatel Türkiye Garantili),21,3.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+801,Nokia ,3.0,Nokia 216 Dual Sim (İthalatçı Garantili),189,3.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+802,Huawei ,4.0,Huawei Y6 2019 64 GB (İthalatçı Garantili),2,4.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+803,LG ,4.5,LG K50 32 GB (LG Türkiye Garantili),23,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+804,Samsung ,4.5,Samsung Galaxy M20 32 GB (Samsung Türkiye Garantili),3865,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+805,Huawei ,4.2,Huawei P8,14,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+806,Xiaomi ,3.2,Xiaomi Mi Note 10 Lite 128 GB (İthalatçı Garantili),6,3.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+807,Samsung ,4.5,Samsung Galaxy A10 32 GB (Samsung Türkiye Garantili),406,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+808,Huawei ,2.0,Huawei Y9 Prime 2019 128 GB (İthalatçı Garantili),2,2.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+809,Xiaomi ,5.0,Xiaomi Redmi 9c 64 GB 3 GB RAM (Xiaomi Türkiye Garantili),2,5.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+810,Samsung ,4.7,Samsung Galaxy Note 10 Lite 128 GB (Samsung Türkiye Garantili),2658,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+811,General Mobile ,4.7,General Mobile General Mobile GM10 64 GB (General Mobile Garantili),112,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+812,Xiaomi ,4.6,Xiaomi Mi Note 10 Lite 128 GB 6 GB Ram (Xiaomi Türkiye Garantiili),4078,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+813,Xiaomi ,4.7,Xiaomi Mi Note 10 Lite 64 GB (Xiaomi Türkiye Garantiili),1351,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+814,Xiaomi ,4.4,Xiaomi Mi Note 10 128 GB (İthalatçı Garantili),5,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+815,Oppo ,4.8,Oppo A72 128 GB (Oppo Türkiye Garantili),212,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+816,Apple ,4.9,Apple iPhone 6 Plus 64 GB (İthalatçı Garantili),11,4.9,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+817,Apple ,4.3,Apple iPhone XS 512 GB,32,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+818,Huawei ,5.0,Huawei Y7 Prime Dual Sim 32 GB (İthalatçı Garantili),4,5.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+819,Huawei ,3.4,Huawei Y5p 32 GB (İthalatçı Garantili),27,3.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+820,Realme ,4.7,Realme 5 Pro 128 GB (Realme Türkiye Garantili),362,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+821,Alcatel ,4.1,Alcatel 2003G (Alcatel Türkiye Garantili),122,4.1,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+822,Alcatech ,3.6,Alcatech E07,5,3.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+823,Alcatel ,4.2,Alcatel 3088 (Alcatel Türkiye Garantili),54,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+824,Oppo ,4.6,Oppo A52 64 GB (Oppo Türkiye Garantili),222,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+825,Xiaomi ,4.2,Xiaomi Redmi Note 8 Pro 64 GB  (İthalatçı Garantili),206,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+826,Elephone ,3.0,Elephone U3H 256 GB  (Elephone Türkiye Garantili),32,3.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+827,Oppo ,4.8,Oppo Reno2 Z 128 GB (Oppo Türkiye Garantili),2896,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+828,General Mobile ,4.4,General Mobile General Mobile GM9 Go Dual Sim 16 GB (General Mobile Garantili),163,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+829,Samsung ,4.5,Samsung Galaxy J710 2016 (Samsung Türkiye Garantili),177,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+830,Huawei ,4.2,Huawei Y6 2019 Dual Sim 32 GB (İthalatçı Garantili),563,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+831,Samsung ,4.6,Samsung Galaxy S10 128 GB (Samsung Türkiye Garantili),222,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+832,Oppo ,4.7,Oppo A9 2020 128 GB (Oppo Türkiye Garantili),326,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+833,Samsung ,4.4,Samsung Galaxy S20 FE 256 GB (Samsung Türkiye Garantili),521,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+834,Meizu ,4.3,Meizu M10 32 GB (Meizu Türkiye Garantili),129,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+835,Xiaomi ,3.8,Xiaomi Mi A3 128 GB (İthalatçı Garantili),12,3.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+836,Oneplus ,4.8,Oneplus 8 Pro 128 GB (Oneplus Türkiye Garantili),55,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+837,Apple ,4.9,Apple iPhone 6 Plus 64 GB (Apple Türkiye Garantili),24,4.9,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+838,Vestel ,4.5,Vestel Venus V6 (Vestel Garantili),151,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+839,Samsung ,4.3,Samsung Galaxy J5 Prime (Samsung Türkiye Garantili),113,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+840,Xiaomi ,4.7,Xiaomi Mi Note 10 Lite 128 GB 8 GB Ram (Xiaomi Türkiye Garantiili),242,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+841,Xiaomi ,4.4,Xiaomi Redmi 9 64 GB(İthalatçı Garantili),117,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+842,Casper ,4.4,Casper Via A3 64 GB,81,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+843,Xiaomi ,4.7,Xiaomi Redmi Note 8 Pro 128 GB  (Xiaomi Türkiye Garantili),5195,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+844,LG ,4.3,LG K9 16 GB (LG Türkiye Garantili),57,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+845,Infinix ,4.6,Infinix Hot 8 64 GB (İthalatçı Garantili),7,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+846,Realme ,4.7,Realme C2 64 GB (Realme Türkiye Garantili),242,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+847,Xiaomi ,4.7,Xiaomi Redmi Note 8 128 GB (Xiaomi Türkiye Garantili),2153,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+848,Xiaomi ,4.6,Xiaomi Redmi 8 32 GB (Xiaomi Türkiye Garantili),1244,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+849,Apple ,4.6,Apple iPhone 11 Pro 256 GB,69,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+850,Gigaset ,4.5,Gigaset GL390 (Gigaset Türkiye Garantili),56,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+851,HONOR ,3.8,HONOR 7S 16 GB (Honor Türkiye Garantili),30,3.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+852,Xiaomi ,3.6,Xiaomi Redmi 8A 64 GB (İthalatçı Garantili),37,3.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+853,POCO ,4.3,POCO F2 Pro 128 GB (POCO Türkiye Garantili),191,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+854,Xiaomi ,3.9,Xiaomi Redmi 8 64 GB (İthalatçı Garantili),439,3.9,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+855,Huawei ,4.6,Huawei P Smart Pro 128 GB 2019 (Huawei Türkiye Garantili),154,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+856,TCL ,4.6,TCL Plex 128 GB (TCL Türkiye Garantili),177,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+857,Samsung ,4.4,Samsung Galaxy S20 Ultra 128 GB (Samsung Türkiye Garantili),424,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+858,Vestel ,4.1,Vestel Venus E4 (Vestel Garantili),82,4.1,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+859,LG ,4.8,LG G8s ThinQ 128 GB (LG Türkiye  Garantili),6,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+860,Casper ,4.8,Casper Via F3 64 GB,20,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+861,Samsung ,4.7,Samsung Galaxy Note 20 256 GB (Samsung Türkiye Garantili),618,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+862,Xiaomi ,4.7,Xiaomi Mi 9T 128 GB (Xiaomi Türkiye Garantili),563,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+863,Huawei ,4.6,Huawei P30 Lite 64 GB (Huawei Türkiye Garantili),519,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+864,Samsung ,4.7,Samsung Galaxy Note 10 Plus 256 GB (Samsung Türkiye Garantili),1383,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+865,Vestel ,4.3,Vestel Venus Z20 (Vestel Garantili),617,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+866,Xiaomi ,4.5,Xiaomi Redmi 8 64 GB (Xiaomi Türkiye Garantili),1442,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+867,LG ,4.8,LG Q7 Prime 32 GB (LG Türkiye Garantili),6,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+868,HONOR ,4.4,HONOR Play 64 GB 4 GB RAM (Honor Türkiye Garantili),489,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+869,Alcatel ,4.3,Alcatel 3X 32 GB (Alcatel Türkiye Garantili),20,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+870,Xiaomi ,4.7,Xiaomi Mi 9T 128 GB (İthalatçı Garantili),51,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+871,Samsung ,4.7,Samsung Galaxy S10 Plus 512 GB (Samsung Türkiye Garantili),109,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+872,Huawei ,4.3,Huawei Y7 2019 Dual Sim 32 GB (İthalatçı Garantili),330,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+873,Samsung ,4.0,Samsung Galaxy Note 8 64 GB Tek Hatlı (İthalatçı Garantili),1,4.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+874,Nokia ,3.9,Nokia 5 3 GB RAM (Nokia Türkiye Garantili),33,3.9,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+875,Realme ,4.6,Realme 5i 64 GB (Realme Türkiye Garantili),1944,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+876,Huawei ,4.4,Huawei Mate 20 Lite 64 GB (Huawei Türkiye Garantili),1730,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+877,Apple ,4.6,Apple iPhone X 64 GB,489,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+878,Xiaomi ,4.3,Xiaomi Mi 10 256 GB 5G (Xiaomi Türkiye Garantili),141,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+879,Oppo ,4.5,Oppo Reno 3 128 GB (Oppo Türkiye Garantili),196,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+880,Casper ,4.3,Casper Via X20 128 GB 6 GB Ram (Casper Türkiye Garantili),358,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+881,Energizer ,4.0,Energizer E241,40,4.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+882,Nokia ,3.3,Nokia 210 (İthalatçı Garantili),304,3.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+883,Huawei ,4.4,Huawei P20 Pro 128 GB (Huawei Türkiye Garantili),479,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+884,Huawei ,3.7,Huawei Y5 2019 Dual Sim 16 GB (İthalatçı Garantili),3,3.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+885,Huawei ,3.7,Huawei Y6p 64 GB (İthalatçı Garantili),143,3.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+886,Samsung ,4.6,Samsung Galaxy A51 2020 128 GB (Samsung Türkiye Garantili),3314,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+887,Samsung ,4.6,Samsung Galaxy Note 10 256 GB (Samsung Türkiye Garantili),707,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+888,HONOR ,4.6,HONOR 8S 64 GB (Honor Türkiye Garantili),44,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+889,Elephone ,3.4,Elephone A7H 64 GB (Elephone Türkiye Garantili),19,3.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+890,Samsung ,4.6,Samsung Galaxy M10 16 GB (Samsung Türkiye Garantili),446,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+891,HONOR ,4.8,HONOR Honor 8A 64 Gb (Honor Türkiye Garantili),4,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+892,LG ,3.5,LG K10 2017  (İthalatçı Garantili),35,3.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+893,Xiaomi ,4.7,Xiaomi Redmi Note 8 64 GB (Xiaomi Türkiye Garantili),8256,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+894,Samsung ,4.5,Samsung Galaxy A20s 32 GB (Samsung Türkiye Garantili),395,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+895,Vestel ,4.4,Vestel Venus Z40 128 GB (Vestel Garantili),158,4.4,Var,"['6,4', 'inç']",Type-C,128 GB,8 GB RAM,3500 mAh,24,20 MP ve Üzeri,8.0 MP
+896,POCO ,4.3,POCO F2 Pro 256 GB (POCO Türkiye Garantili),14,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+897,Xiaomi ,4.6,Xiaomi Redmi Note 8 32 GB (Xiaomi Türkiye Garantili),291,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+898,Huawei ,4.5,Huawei Y6 2019 32 GB (Huawei Türkiye Garantili),1019,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+899,Samsung ,4.5,Samsung Galaxy J510 2016 (Samsung Türkiye Garantili),157,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+900,Huawei ,4.3,Huawei Y7 2019 64 GB (İthalatçı Garantili),165,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+901,Samsung ,4.5,Samsung Galaxy J510 2016 (Samsung Türkiye Garantili),157,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+902,Samsung ,4.5,Samsung Galaxy A9 2018 128 GB (Samsung Türkiye Garantili),941,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+903,Samsung ,4.5,Samsung Galaxy A50 2019 Dual Sim 128 GB (İthalatçı Garantili),43,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+904,Huawei ,4.5,Huawei Y6 2019 32 GB (Huawei Türkiye Garantili),1019,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+905,General Mobile ,4.2,General Mobile General Mobile GM8 2019 Edition 32 GB (General Mobile Garantili),90,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+906,Huawei ,4.2,Huawei P20 Lite 64 GB (Huawei Türkiye Garantili),1371,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+907,Apple ,4.6,Apple iPhone 6S Plus 32 GB,256,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+908,Huawei ,4.4,Huawei Y5 2019 16 GB (Huawei Türkiye Garantili),381,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+909,Samsung ,4.7,Samsung Galaxy A30s 64 GB (Samsung Türkiye Garantili),713,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+910,Blackview ,4.5,Blackview BV1000,54,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+911,Casper ,4.2,Casper Via A2 32 GB,25,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+912,Xiaomi ,4.7,Xiaomi Redmi Note 9S 64 GB (Xiaomi Türkiye Garantili),1912,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+913,General Mobile ,4.4,General Mobile General Mobile GM9 Plus 32 GB (General Mobile Garantili),113,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+914,Oppo ,4.1,Oppo Find X2 256 GB (Oppo Türkiye Garantili),67,4.1,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+915,General Mobile ,4.1,General Mobile General Mobile GM9 Go 16 GB (General Mobile Garantili),256,4.1,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+916,Xiaomi ,4.4,Xiaomi Mi Note 10 128 GB (Xiaomi Türkiye Garantili),271,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+917,General Mobile ,4.6,General Mobile General Mobile GM 20 Pro 128 GB (General Mobile Garantili),1129,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+918,Samsung ,4.4,Samsung Galaxy Z Flip 256 GB (Samsung Türkiye Garantili),181,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+919,Xiaomi ,4.5,Xiaomi Redmi 8A 32 GB (Xiaomi Türkiye Garantili),2184,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+920,Infinix ,4.0,Infinix Hot 8 64 GB (Infinix Türkiye Garantili),74,4.0,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+921,HONOR ,4.6,HONOR Honor 20 Lite 128 GB (Honor Türkiye Garantili),59,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+922,Samsung ,4.6,Samsung Galaxy A30 2019 64 GB (Samsung Türkiye Garantili),763,4.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+923,Apple ,4.8,Apple iPhone XS 256 GB,148,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+924,General Mobile ,4.2,General Mobile General Mobile GM8 32 GB (General Mobile Garantili),482,4.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+925,Nokia ,3.2,Nokia 3310 3G (Nokia Türkiye Garantili),35,3.2,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+926,Xiaomi ,4.7,Xiaomi Redmi Note 9 Pro 64 GB (Xiaomi Türkiye Garantili),4815,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+927,Xiaomi ,4.7,Xiaomi Redmi Note 9 Pro 128 GB (Xiaomi Türkiye Garantili),11144,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+928,Samsung ,4.5,Samsung Galaxy Z Fold2 256 GB  (Samsung Türkiye Garantili),55,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+929,TCL ,4.7,TCL 10L 64 GB (TCL Türkiye Garantili),107,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+930,Infinix ,,Infinix INFINIX Hot 8 64 GB,,,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+931,Oppo ,4.4,Oppo Reno 3 Pro 256 GB (Oppo Türkiye Garantili),77,4.4,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+932,Hiking ,3.7,Hiking A19 64 GB (İthalatçı Garantili),14,3.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+933,Realme ,4.7,Realme 6 128 GB (Realme Türkiye Garantili),1702,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+934,Xiaomi ,4.7,Xiaomi Redmi Note 8 Pro 64 GB  (Xiaomi Türkiye Garantili),5627,4.7,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+935,Samsung ,4.5,Samsung Galaxy A20 32 GB (Samsung Türkiye Garantili),606,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+936,Xiaomi ,4.8,Xiaomi Mi 9T 64 GB (İthalatçı Garantili),83,4.8,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+937,Casper ,4.3,Casper Via G4 32 GB,99,4.3,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+938,Samsung ,4.5,Samsung Galaxy A70 2019 128 GB (Samsung Türkiye Garantili),1908,4.5,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
+939,Vestel ,3.6,Vestel Venüs Go 8 GB (Vestel Garantili),266,3.6,,,,,8 GB RAM,,,20 MP ve Üzeri,8.0 MP
